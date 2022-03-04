@@ -43,4 +43,4 @@ List creation is encouraged! The Hera team wants the community to develop their 
 
 ## Adding Your Token Logo
 
-Netswap token logos are [hosted here](https://github.com/heraaggregator/tokens).
+Hera token logos are [hosted here](https://github.com/heraaggregator/tokens).
