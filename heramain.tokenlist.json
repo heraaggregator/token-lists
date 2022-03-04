@@ -163,15 +163,7 @@
             "decimals": 18,
             "name": "Tethys",
             "symbol": "TETHYS",
-            "logoURI": "https://assets.coingecko.com/coins/images/22141/small/wjoZJvzA_400x400.jpg?1640927753"
-        },
-        {
-            "chainId": 1088,
-            "address": "0x69fdb77064ec5c84FA2F21072973eB28441F43F3",
-            "decimals": 18,
-            "name": "Tethys",
-            "symbol": "TETHYS",
-            "logoURI": "https://assets.coingecko.com/coins/images/22141/small/wjoZJvzA_400x400.jpg?1640927753"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/master/assets/0x69fdb77064ec5c84FA2F21072973eB28441F43F3/logo.png"
         },
         {
             "chainId": 1088,
@@ -179,8 +171,24 @@
             "decimals": 18,
             "name": "Starstream",
             "symbol": "STARS",
-            "logoURI": "https://imagedelivery.net/doDgMvXq0CcvAoj6k2stSg/60d98cd1-0dd9-49e3-a962-2e722c835f00/public"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/master/assets/0xb26F58f0b301a077cFA779c0B0f8281C7f936Ac0/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x72c232d56542ba082592dee7c77b1c6cfa758bcd",
+            "decimals": 9,
+            "name": "Maia",
+            "symbol": "MAIA",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/master/assets/0x72c232d56542ba082592dee7c77b1c6cfa758bcd/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x6d8534326415ff9966b387615e576a109ac01ac1",
+            "decimals": 18,
+            "name": "Mini Metis",
+            "symbol": "MINIME",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/master/assets/0x6d8534326415ff9966b387615e576a109ac01ac1/logo.png"
         }
     ],
-    "timestamp": "2022-02-19T15:00:00+00:00"
+    "timestamp": "2022-03-04T05:00:00+00:00"
 }
