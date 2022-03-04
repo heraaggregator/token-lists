@@ -10,7 +10,7 @@
     "version": {
         "major": 7,
         "minor": 1,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -31,6 +31,14 @@
         },
         {
             "chainId": 1088,
+            "address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+            "decimals": 6,
+            "name": "USDT Token",
+            "symbol": "m.USDT",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png"
+        },
+        {
+            "chainId": 1088,
             "address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
             "decimals": 18,
             "name": "Netswap Token",
@@ -39,11 +47,11 @@
         },
         {
             "chainId": 1088,
-            "address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
-            "decimals": 6,
-            "name": "USDT Token",
-            "symbol": "m.USDT",
-            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png"
+            "address": "0x69fdb77064ec5c84FA2F21072973eB28441F43F3",
+            "decimals": 18,
+            "name": "Tethys",
+            "symbol": "TETHYS",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x69fdb77064ec5c84FA2F21072973eB28441F43F3/logo.png"
         },
         {
             "chainId": 1088,
@@ -167,14 +175,6 @@
         },
         {
             "chainId": 1088,
-            "address": "0x69fdb77064ec5c84FA2F21072973eB28441F43F3",
-            "decimals": 18,
-            "name": "Tethys",
-            "symbol": "TETHYS",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x69fdb77064ec5c84FA2F21072973eB28441F43F3/logo.png"
-        },
-        {
-            "chainId": 1088,
             "address": "0xb26F58f0b301a077cFA779c0B0f8281C7f936Ac0",
             "decimals": 18,
             "name": "Starstream",
@@ -198,5 +198,5 @@
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x6d8534326415ff9966b387615e576a109ac01ac1/logo.png"
         }
     ],
-    "timestamp": "2022-03-04T12:58:00+00:00"
+    "timestamp": "2022-03-04T13:28:00+00:00"
 }
