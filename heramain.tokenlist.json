@@ -47,6 +47,22 @@
         },
         {
             "chainId": 1088,
+            "address": "0x72c232d56542ba082592dee7c77b1c6cfa758bcd",
+            "decimals": 9,
+            "name": "Maia",
+            "symbol": "MAIA",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x72c232d56542ba082592dee7c77b1c6cfa758bcd/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8",
+            "decimals": 18,
+            "name": "Hermes",
+            "symbol": "HERMES",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8/logo.png"
+        },
+        {
+            "chainId": 1088,
             "address": "0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7",
             "decimals": 18,
             "name": "WOW Token",
@@ -172,14 +188,6 @@
             "name": "Starstream",
             "symbol": "STARS",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb26F58f0b301a077cFA779c0B0f8281C7f936Ac0/logo.png"
-        },
-        {
-            "chainId": 1088,
-            "address": "0x72c232d56542ba082592dee7c77b1c6cfa758bcd",
-            "decimals": 9,
-            "name": "Maia",
-            "symbol": "MAIA",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x72c232d56542ba082592dee7c77b1c6cfa758bcd/logo.png"
         },
         {
             "chainId": 1088,
