@@ -47,11 +47,11 @@
         },
         {
             "chainId": 1088,
-            "address": "0x72c232d56542ba082592dee7c77b1c6cfa758bcd",
+            "address": "0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD",
             "decimals": 9,
             "name": "Maia",
             "symbol": "MAIA",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x72c232d56542ba082592dee7c77b1c6cfa758bcd/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD/logo.png"
         },
         {
             "chainId": 1088,
