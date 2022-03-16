@@ -63,19 +63,11 @@
         },
         {
             "chainId": 1088,
-            "address": "0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7",
+            "address": "0xb26F58f0b301a077cFA779c0B0f8281C7f936Ac0",
             "decimals": 18,
-            "name": "WOW Token",
-            "symbol": "m.WOW",
-            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png"
-        },
-        {
-            "chainId": 1088,
-            "address": "0xf5f66d5daa89c090a7afa10e6c1553b2887a9a33",
-            "decimals": 18,
-            "name": "LINK Token",
-            "symbol": "m.LINK",
-            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png"
+            "name": "Starstream",
+            "symbol": "STARS",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb26F58f0b301a077cFA779c0B0f8281C7f936Ac0/logo.png"
         },
         {
             "chainId": 1088,
@@ -84,6 +76,30 @@
             "name": "Ether",
             "symbol": "WETH",
             "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x4651B38e7ec14BB3db731369BFE5B08F2466Bd0A",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x4651B38e7ec14BB3db731369BFE5B08F2466Bd0A/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
+            "decimals": 8,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xf5f66d5daa89c090a7afa10e6c1553b2887a9a33",
+            "decimals": 18,
+            "name": "LINK Token",
+            "symbol": "m.LINK",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png"
         },
         {
             "chainId": 1088,
@@ -103,14 +119,6 @@
         },
         {
             "chainId": 1088,
-            "address": "0x445ea60f4ace3d8794369379e68fa0f76af06b02",
-            "decimals": 18,
-            "name": "Poly-Peg CAKE",
-            "symbol": "CAKE",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x445ea60f4ace3d8794369379e68fa0f76af06b02/logo.png"
-        },
-        {
-            "chainId": 1088,
             "address": "0x2692be44a6e38b698731fddf417d060f0d20a0cb",
             "decimals": 18,
             "name": "Poly-Peg BNB",
@@ -124,6 +132,14 @@
             "name": "Poly-Peg BUSD",
             "symbol": "BUSD",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x12d84f1cfe870ca9c9df9785f8954341d7fbb249/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x445ea60f4ace3d8794369379e68fa0f76af06b02",
+            "decimals": 18,
+            "name": "Poly-Peg CAKE",
+            "symbol": "CAKE",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x445ea60f4ace3d8794369379e68fa0f76af06b02/logo.png"
         },
         {
             "chainId": 1088,
@@ -175,19 +191,11 @@
         },
         {
             "chainId": 1088,
-            "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
-            "decimals": 8,
-            "name": "Wrapped BTC",
-            "symbol": "WBTC",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4/logo.png"
-        },
-        {
-            "chainId": 1088,
-            "address": "0xb26F58f0b301a077cFA779c0B0f8281C7f936Ac0",
+            "address": "0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7",
             "decimals": 18,
-            "name": "Starstream",
-            "symbol": "STARS",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb26F58f0b301a077cFA779c0B0f8281C7f936Ac0/logo.png"
+            "name": "WOW Token",
+            "symbol": "m.WOW",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png"
         },
         {
             "chainId": 1088,
