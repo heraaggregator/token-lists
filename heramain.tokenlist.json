@@ -31,6 +31,14 @@
         },
         {
             "chainId": 1088,
+            "address": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
+            "decimals": 18,
+            "name": "Hera Token",
+            "symbol": "HERA",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce/logo.png"
+        },
+        {
+            "chainId": 1088,
             "address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
             "decimals": 18,
             "name": "Netswap Token",
