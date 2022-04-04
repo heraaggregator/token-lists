@@ -9,8 +9,8 @@
     ],
     "version": {
         "major": 7,
-        "minor": 1,
-        "patch": 4
+        "minor": 2,
+        "patch": 1
     },
     "tokens": [
         {
@@ -214,5 +214,5 @@
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xa31848aa61f784cdbb6f74260d224a4356295799/logo.png"
         }
     ],
-    "timestamp": "2022-03-04T13:28:00+00:00"
+    "timestamp": "2022-04-04T05:28:00+00:00"
 }
