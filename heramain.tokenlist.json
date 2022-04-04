@@ -8,9 +8,9 @@
         "andromeda"
     ],
     "version": {
-        "major": 7,
-        "minor": 2,
-        "patch": 1
+        "major": 8,
+        "minor": 1,
+        "patch": 0
     },
     "tokens": [
         {
@@ -164,7 +164,7 @@
             "name": "Avalanche Token",
             "symbol": "rAVAX",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xe253e0cea0cdd43d9628567d097052b33f98d611/logo.png"
-        }
+        },
         {
             "chainId": 1088,
             "address": "0xa9109271abcf0c4106ab7366b4edb34405947eed",
