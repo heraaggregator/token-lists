@@ -164,15 +164,7 @@
             "name": "Avalanche Token",
             "symbol": "rAVAX",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xe253e0cea0cdd43d9628567d097052b33f98d611/logo.png"
-        },
-        {
-            "chainId": 1088,
-            "address": "0x729de3792a5f810a2e7d7899da74de0d108e7e6b",
-            "decimals": 18,
-            "name": "Wrapped ONE",
-            "symbol": "WONE",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x729de3792a5f810a2e7d7899da74de0d108e7e6b/logo.png"
-        },
+        }
         {
             "chainId": 1088,
             "address": "0xa9109271abcf0c4106ab7366b4edb34405947eed",
@@ -207,19 +199,19 @@
         },
         {
             "chainId": 1088,
-            "address": "0x5ce34d9abe4bf239cbc08b89287c87f4cd6d80b7",
+            "address": "0x1f5550a0f5f659e07506088a7919a88dff37218f",
             "decimals": 18,
-            "name": "WOW Token",
-            "symbol": "m.WOW",
-            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WOW/logo.png"
+            "name": "PEAK",
+            "symbol": "PEAK",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x1f5550a0f5f659e07506088a7919a88dff37218f/logo.png"
         },
         {
             "chainId": 1088,
-            "address": "0x6d8534326415ff9966b387615e576a109ac01ac1",
+            "address": "0xa31848aa61f784cdbb6f74260d224a4356295799",
             "decimals": 18,
-            "name": "Mini Metis",
-            "symbol": "MINIME",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x6d8534326415ff9966b387615e576a109ac01ac1/logo.png"
+            "name": "Dexpools Token",
+            "symbol": "DXP",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xa31848aa61f784cdbb6f74260d224a4356295799/logo.png"
         }
     ],
     "timestamp": "2022-03-04T13:28:00+00:00"
