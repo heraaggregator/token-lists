@@ -212,6 +212,14 @@
             "name": "Dexpools Token",
             "symbol": "DXP",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xa31848aa61f784cdbb6f74260d224a4356295799/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xfe540d6dbad8c68928778aaf2be828efa4b44fa2",
+            "decimals": 18,
+            "name": "Aerarium Fi",
+            "symbol": "AERA",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xfe540d6dbad8c68928778aaf2be828efa4b44fa2/logo.png"
         }
     ],
     "timestamp": "2022-04-04T05:28:00+00:00"
