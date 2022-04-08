@@ -220,7 +220,15 @@
             "name": "Aerarium Fi",
             "symbol": "AERA",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xfe540d6dbad8c68928778aaf2be828efa4b44fa2/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x259EF6776648500D7F1A8aBA3651E38b1121e65e",
+            "decimals": 18,
+            "name": "PRO",
+            "symbol": "PRO",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x259ef6776648500d7f1a8aba3651e38b1121e65e/logo.png"
         }
     ],
-    "timestamp": "2022-04-04T05:28:00+00:00"
+    "timestamp": "2022-04-07T11:28:00+00:00"
 }
