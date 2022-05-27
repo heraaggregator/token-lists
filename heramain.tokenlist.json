@@ -10,7 +10,7 @@
     "version": {
         "major": 8,
         "minor": 1,
-        "patch": 2
+        "patch": 3
     },
     "tokens": [
         {
@@ -236,7 +236,15 @@
             "name": "Hummus",
             "symbol": "HUM",
             "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x4aac94985cd83be30164dfe7e9af7c054d7d2121/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x66673f0a3b5d99524bA76A558B93A9ca1386f4Cd",
+            "decimals": 18,
+            "name": "XCAD Token",
+            "symbol": "XCAD",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x66673f0a3b5d99524bA76A558B93A9ca1386f4Cd/logo.png"
         }
     ],
-    "timestamp": "2022-04-18T11:28:00+00:00"
+    "timestamp": "2022-05-27T11:28:00+00:00"
 }
