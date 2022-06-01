@@ -10,7 +10,7 @@
     "version": {
         "major": 8,
         "minor": 1,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -244,7 +244,15 @@
             "name": "XCAD Token",
             "symbol": "XCAD",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x66673f0a3b5d99524bA76A558B93A9ca1386f4Cd/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2",
+            "decimals": 18,
+            "name": "Revenant",
+            "symbol": "GAMEFI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2/logo.png"
         }
     ],
-    "timestamp": "2022-05-27T11:28:00+00:00"
+    "timestamp": "2022-06-01T10:28:00+00:00"
 }
