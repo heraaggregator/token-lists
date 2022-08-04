@@ -10,8 +10,8 @@
     ],
     "version": {
         "major": 8,
-        "minor": 1,
-        "patch": 5
+        "minor": 2,
+        "patch": 1
     },
     "tokens": [
         {
@@ -192,14 +192,6 @@
         },
         {
             "chainId": 1088,
-            "address": "0xE9Aa15a067b010a4078909baDE54F0C6aBcBB852",
-            "decimals": 18,
-            "name": "Metauce",
-            "symbol": "MINES",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xe9aa15a067b010a4078909bade54f0c6abcbb852/logo.png"
-        },
-        {
-            "chainId": 1088,
             "address": "0x1f5550a0f5f659e07506088a7919a88dff37218f",
             "decimals": 18,
             "name": "PEAK",
@@ -261,7 +253,32 @@
             "name": "O3 Swap Token",
             "symbol": "O3",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xee9801669c6138e84bd50deb500827b776777d28/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c",
+            "decimals": 18,
+            "name": "Sushi Token",
+            "symbol": "m.SUSHI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+            "decimals": 18,
+            "name": "Mai Stablecoin",
+            "symbol": "MAI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xdfa46478f9e5ea86d57387849598dbfb2e964b02/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+            "decimals": 18,
+            "name": "QiDao",
+            "symbol": "QI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x3f56e0c36d275367b8c502090edf38289b3dea0d/logo.png"
         }
+        
     ],
-    "timestamp": "2022-07-18T10:28:00+00:00"
+    "timestamp": "2022-08-04T06:28:00+00:00"
 }
