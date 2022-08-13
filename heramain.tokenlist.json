@@ -11,7 +11,7 @@
     "version": {
         "major": 8,
         "minor": 2,
-        "patch": 2
+        "patch": 3
     },
     "tokens": [
         {
@@ -20,7 +20,7 @@
             "decimals": 6,
             "name": "USDC Token",
             "symbol": "m.USDC",
-            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xea32a96608495e54156ae48931a7c20f0dcc1a21/logo.png"
         },
         {
             "chainId": 1088,
@@ -28,7 +28,7 @@
             "decimals": 6,
             "name": "USDT Token",
             "symbol": "m.USDT",
-            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc/logo.png"
         },
         {
             "chainId": 1088,
@@ -92,7 +92,7 @@
             "decimals": 18,
             "name": "Ether",
             "symbol": "WETH",
-            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x420000000000000000000000000000000000000a/logo.png"
         },
         {
             "chainId": 1088,
@@ -116,7 +116,7 @@
             "decimals": 18,
             "name": "LINK Token",
             "symbol": "m.LINK",
-            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xf5f66d5daa89c090a7afa10e6c1553b2887a9a33/logo.png"
         },
         {
             "chainId": 1088,
@@ -124,7 +124,7 @@
             "decimals": 18,
             "name": "AAVE Token",
             "symbol": "AAVE",
-            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/AAVE/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x68d97b7a961a5239b9f911da8deb57f6ef6e5e28/logo.png"
         },
         {
             "chainId": 1088,
@@ -132,7 +132,7 @@
             "decimals": 18,
             "name": "Curve DAO Token",
             "symbol": "CRV",
-            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/CRV/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x87dd4a7ad23b95cd9ff9c26b5cf325905caf8663/logo.png"
         },
         {
             "chainId": 1088,
@@ -264,5 +264,5 @@
         }
         
     ],
-    "timestamp": "2022-08-05T06:28:00+00:00"
+    "timestamp": "2022-08-13T06:28:00+00:00"
 }
