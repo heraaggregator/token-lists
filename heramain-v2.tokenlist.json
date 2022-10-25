@@ -1,0 +1,300 @@
+{
+    "name": "Hera v2 Main Tokens",
+    "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/b5806bacb8761bc64746d6492c1c9704da6cc3d3/hera.svg",
+    "keywords": [
+        "metis",
+        "hera",
+        "aggregator",
+        "ethereum",
+        "andromeda"
+    ],
+    "version": {
+        "major": 9,
+        "minor": 1,
+        "patch": 1
+    },
+    "tokens": [
+        {
+            "chainId": 1088,
+            "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+            "decimals": 6,
+            "name": "USDC Token",
+            "symbol": "m.USDC",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xea32a96608495e54156ae48931a7c20f0dcc1a21/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+            "decimals": 6,
+            "name": "USDT Token",
+            "symbol": "m.USDT",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
+            "decimals": 18,
+            "name": "Hera Token",
+            "symbol": "HERA",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x90fE084F877C65e1b577c7b2eA64B8D8dd1AB278",
+            "decimals": 18,
+            "name": "Netswap Token",
+            "symbol": "NETT",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x69fdb77064ec5c84FA2F21072973eB28441F43F3",
+            "decimals": 18,
+            "name": "Tethys",
+            "symbol": "TETHYS",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x69fdb77064ec5c84FA2F21072973eB28441F43F3/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD",
+            "decimals": 9,
+            "name": "Maia",
+            "symbol": "MAIA",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8",
+            "decimals": 18,
+            "name": "Hermes",
+            "symbol": "HERMES",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xb26F58f0b301a077cFA779c0B0f8281C7f936Ac0",
+            "decimals": 18,
+            "name": "Starstream",
+            "symbol": "STARS",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb26F58f0b301a077cFA779c0B0f8281C7f936Ac0/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x721532bC0dA5ffaeB0a6A45fB24271E8098629A7",
+            "decimals": 18,
+            "name": "BinaryDAO Token",
+            "symbol": "BYTE",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x721532bC0dA5ffaeB0a6A45fB24271E8098629A7/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x420000000000000000000000000000000000000a",
+            "decimals": 18,
+            "name": "Ether",
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x420000000000000000000000000000000000000a/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x4651B38e7ec14BB3db731369BFE5B08F2466Bd0A",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x4651B38e7ec14BB3db731369BFE5B08F2466Bd0A/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
+            "decimals": 8,
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xf5f66d5daa89c090a7afa10e6c1553b2887a9a33",
+            "decimals": 18,
+            "name": "LINK Token",
+            "symbol": "m.LINK",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xf5f66d5daa89c090a7afa10e6c1553b2887a9a33/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x68D97B7A961a5239B9F911DA8dEb57F6eF6e5e28",
+            "decimals": 18,
+            "name": "AAVE Token",
+            "symbol": "AAVE",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x68d97b7a961a5239b9f911da8deb57f6ef6e5e28/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x87DD4a7Ad23B95cD9fF9C26B5cF325905CaF8663",
+            "decimals": 18,
+            "name": "Curve DAO Token",
+            "symbol": "CRV",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x87dd4a7ad23b95cd9ff9c26b5cf325905caf8663/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x2692be44a6e38b698731fddf417d060f0d20a0cb",
+            "decimals": 18,
+            "name": "Poly-Peg BNB",
+            "symbol": "BNB",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x2692be44a6e38b698731fddf417d060f0d20a0cb/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x12d84f1cfe870ca9c9df9785f8954341d7fbb249",
+            "decimals": 18,
+            "name": "Poly-Peg BUSD",
+            "symbol": "BUSD",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x12d84f1cfe870ca9c9df9785f8954341d7fbb249/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x445ea60f4ace3d8794369379e68fa0f76af06b02",
+            "decimals": 18,
+            "name": "Poly-Peg CAKE",
+            "symbol": "CAKE",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x445ea60f4ace3d8794369379e68fa0f76af06b02/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xe253e0cea0cdd43d9628567d097052b33f98d611",
+            "decimals": 18,
+            "name": "Avalanche Token",
+            "symbol": "rAVAX",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xe253e0cea0cdd43d9628567d097052b33f98d611/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xa9109271abcf0c4106ab7366b4edb34405947eed",
+            "decimals": 18,
+            "name": "Fantom Token",
+            "symbol": "rFTM",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xa9109271abcf0c4106ab7366b4edb34405947eed/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xfe282Af5f9eB59C30A3f78789EEfFA704188bdD4",
+            "decimals": 18,
+            "name": "Relay Token",
+            "symbol": "RELAY",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xfe282af5f9eb59c30a3f78789eeffa704188bdd4/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x4b9d2923d875edf43980bf5ddddede3fb20fc742",
+            "decimals": 18,
+            "name": "Matic Token",
+            "symbol": "MATIC",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x4b9d2923d875edf43980bf5ddddede3fb20fc742/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x1f5550a0f5f659e07506088a7919a88dff37218f",
+            "decimals": 18,
+            "name": "PEAK",
+            "symbol": "PEAK",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x1f5550a0f5f659e07506088a7919a88dff37218f/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xa31848aa61f784cdbb6f74260d224a4356295799",
+            "decimals": 18,
+            "name": "Dexpools Token",
+            "symbol": "DXP",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xa31848aa61f784cdbb6f74260d224a4356295799/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xfe540d6dbad8c68928778aaf2be828efa4b44fa2",
+            "decimals": 18,
+            "name": "Aerarium Fi",
+            "symbol": "AERA",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xfe540d6dbad8c68928778aaf2be828efa4b44fa2/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x259EF6776648500D7F1A8aBA3651E38b1121e65e",
+            "decimals": 18,
+            "name": "PRO",
+            "symbol": "PRO",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x259ef6776648500d7f1a8aba3651e38b1121e65e/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x4aac94985cd83be30164dfe7e9af7c054d7d2121",
+            "decimals": 18,
+            "name": "Hummus",
+            "symbol": "HUM",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x4aac94985cd83be30164dfe7e9af7c054d7d2121/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x66673f0a3b5d99524bA76A558B93A9ca1386f4Cd",
+            "decimals": 18,
+            "name": "XCAD Token",
+            "symbol": "XCAD",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x66673f0a3b5d99524bA76A558B93A9ca1386f4Cd/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2",
+            "decimals": 18,
+            "name": "Revenant",
+            "symbol": "GAMEFI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+            "decimals": 18,
+            "name": "O3 Swap Token",
+            "symbol": "O3",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xee9801669c6138e84bd50deb500827b776777d28/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c",
+            "decimals": 18,
+            "name": "Sushi Token",
+            "symbol": "m.SUSHI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10",
+            "decimals": 18,
+            "name": "Binance USD",
+            "symbol": "m.BUSD",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x433e43047b95cb83517abd7c9978bdf7005e9938",
+            "decimals": 8,
+            "name": "WBTC Token",
+            "symbol": "m.WBTC",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x433e43047b95cb83517abd7c9978bdf7005e9938/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x4c078361fc9bbb78df910800a991c7c3dd2f6ce0",
+            "decimals": 18,
+            "name": "DAI Token",
+            "symbol": "m.DAI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x4c078361fc9bbb78df910800a991c7c3dd2f6ce0/logo.svg"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+            "decimals": 18,
+            "name": "Mai Stablecoin",
+            "symbol": "MAI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xdfa46478f9e5ea86d57387849598dbfb2e964b02/logo.png"
+        }
+        
+    ],
+    "timestamp": "2022-10-24T06:28:00+00:00"
+}
