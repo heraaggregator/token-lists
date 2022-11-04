@@ -1,8 +1,8 @@
 # Hera Tokenlists
 
-Active Tokenlists
+### Active Tokenlists
 
-Metis: [heramain-v2.tokenlist.json](./heramain-v2.tokenlist.json)
+1. **Metis:** [heramain-v2.tokenlist.json](./heramain-v2.tokenlist.json)
 
 Token Lists is a specification for lists of token metadata (e.g. address, decimals, etc.) that can be used by any dApp
 interfaces that needs one or more lists of tokens. Anyone can create and maintain a token list, as long as they follow
