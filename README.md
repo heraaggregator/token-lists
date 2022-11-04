@@ -1,5 +1,9 @@
 # Hera Tokenlists
 
+Active Tokenlists
+
+Metis: [heramain-v2.tokenlist.json](./heramain-v2.tokenlist.json)
+
 Token Lists is a specification for lists of token metadata (e.g. address, decimals, etc.) that can be used by any dApp
 interfaces that needs one or more lists of tokens. Anyone can create and maintain a token list, as long as they follow
 the specification. The Hera community invites you to add your token to our tokenlists!
@@ -9,17 +13,17 @@ the specification. The Hera community invites you to add your token to our token
 
 
 ### General Requirements
-1. Token should be verified on the [andromeda explorer](https://andromeda-explorer.metis.io/).
+1. Token should be verified on token explorers.
 2. Token must be added to a list that it qualifies for:
-    * **[Hera Main Tokenlist](./heramain.tokenlist.json)**: Token must be in the Andromeda network!
+    * **[Hera Main Tokenlist - Metis](./heramain-v2.tokenlist.json)**: Token must be in the Andromeda network!
 
 
 ## Adding Your Token
 1. Add an entry in the `tokens` field of the appropriate tokenlist. Here is an example using WETH:
     ```json
     {
-        "address": "0x420000000000000000000000000000000000000A",
-        "chainId": 1088,
+        "address": "0x420000000000000000000000000000000000000A", // Token contract address
+        "chainId": 1088, //ChainID
         "name": "Ether",
         "symbol": "WETH",
         "decimals": 18,
