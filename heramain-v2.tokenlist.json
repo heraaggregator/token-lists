@@ -11,7 +11,7 @@
     "version": {
         "major": 9,
         "minor": 1,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -96,14 +96,6 @@
         },
         {
             "chainId": 1088,
-            "address": "0x4651B38e7ec14BB3db731369BFE5B08F2466Bd0A",
-            "decimals": 18,
-            "name": "Dai Stablecoin",
-            "symbol": "DAI",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x4651B38e7ec14BB3db731369BFE5B08F2466Bd0A/logo.png"
-        },
-        {
-            "chainId": 1088,
             "address": "0xa5B55ab1dAF0F8e1EFc0eB1931a957fd89B918f4",
             "decimals": 8,
             "name": "Wrapped BTC",
@@ -141,22 +133,6 @@
             "name": "Poly-Peg BNB",
             "symbol": "BNB",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x2692be44a6e38b698731fddf417d060f0d20a0cb/logo.png"
-        },
-        {
-            "chainId": 1088,
-            "address": "0x12d84f1cfe870ca9c9df9785f8954341d7fbb249",
-            "decimals": 18,
-            "name": "Poly-Peg BUSD",
-            "symbol": "BUSD",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x12d84f1cfe870ca9c9df9785f8954341d7fbb249/logo.png"
-        },
-        {
-            "chainId": 1088,
-            "address": "0x445ea60f4ace3d8794369379e68fa0f76af06b02",
-            "decimals": 18,
-            "name": "Poly-Peg CAKE",
-            "symbol": "CAKE",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x445ea60f4ace3d8794369379e68fa0f76af06b02/logo.png"
         },
         {
             "chainId": 1088,
@@ -296,5 +272,5 @@
         }
         
     ],
-    "timestamp": "2022-10-24T06:28:00+00:00"
+    "timestamp": "2022-11-07T06:28:00+00:00"
 }
