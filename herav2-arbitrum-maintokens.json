@@ -482,7 +482,7 @@
             "name": "deBridge Ether",
             "symbol": "deETH",
             "tags": [],
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xcab86f6fb6d1c2cbeeb97854a0c023446a075fe3.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xcab86f6fb6d1c2cbeeb97854a0c023446a075fe3.webp"
         },
         {
             "chainId": 42161,
@@ -491,7 +491,7 @@
             "name": "deBridge USD Coin",
             "symbol": "deUSDC",
             "tags": ["stable"],
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa.webp"
         },
         {
             "chainId": 42161,
