@@ -234,6 +234,15 @@
         },
         {
             "chainId": 42161,
+            "address": "0xb348B87b23D5977E2948E6f36ca07E1EC94d7328",
+            "decimals": 18,
+            "name": "SwapFish",
+            "symbol": "FISH",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xb348b87b23d5977e2948e6f36ca07e1ec94d7328.webp"
+        },
+        {
+            "chainId": 42161,
             "address": "0xd2568acCD10A4C98e87c44E9920360031ad89fCB",
             "decimals": 18,
             "name": "3xcalibur Ecosystem Token",
