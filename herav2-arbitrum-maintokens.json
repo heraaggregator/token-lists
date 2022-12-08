@@ -225,6 +225,15 @@
         },
         {
             "chainId": 42161,
+            "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+            "decimals": 18,
+            "name": "Camelot Grail",
+            "symbol": "GRAIL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8.svg"
+        },
+        {
+            "chainId": 42161,
             "address": "0xd2568acCD10A4C98e87c44E9920360031ad89fCB",
             "decimals": 18,
             "name": "3xcalibur Ecosystem Token",
