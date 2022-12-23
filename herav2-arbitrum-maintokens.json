@@ -11,9 +11,9 @@
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 2
+        "patch": 4
     },
-    "timestamp": "2022-12-08T12:39:00+00:00",
+    "timestamp": "2022-12-23T12:39:00+00:00",
     "tags": {
         "base": {
           "name": "Base",
@@ -243,6 +243,24 @@
         },
         {
             "chainId": 42161,
+            "address": "0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf",
+            "decimals": 18,
+            "name": "HonorWorld Token",
+            "symbol": "HWT",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xbcc9c1763d54427bdf5efb6e9eb9494e5a1fbabf.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x65c936f008BC34fE819bce9Fa5afD9dc2d49977f",
+            "decimals": 18,
+            "name": "Y2K",
+            "symbol": "Y2K",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x65c936f008bc34fe819bce9fa5afd9dc2d49977f.png"
+        },
+        {
+            "chainId": 42161,
             "address": "0xd2568acCD10A4C98e87c44E9920360031ad89fCB",
             "decimals": 18,
             "name": "3xcalibur Ecosystem Token",
@@ -330,6 +348,15 @@
             "symbol": "UMAMI",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x1622bf67e6e5747b81866fe0b85178a93c7f86e3.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x500756c7D239AeE30f52C7e52AF4F4F008d1A98f",
+            "decimals": 18,
+            "name": "Petroleum OIL",
+            "symbol": "OIL",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x500756c7d239aee30f52c7e52af4f4f008d1a98f.png"
         },
         {
             "chainId": 42161,
