@@ -11,9 +11,9 @@
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 4
+        "patch": 5
     },
-    "timestamp": "2022-12-23T12:39:00+00:00",
+    "timestamp": "2022-12-23T12:49:00+00:00",
     "tags": {
         "base": {
           "name": "Base",
@@ -258,6 +258,15 @@
             "symbol": "Y2K",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x65c936f008bc34fe819bce9fa5afd9dc2d49977f.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xa1150db5105987CEC5Fd092273d1e3cbb22b378b",
+            "decimals": 18,
+            "name": "Oath Token",
+            "symbol": "OATH",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xa1150db5105987cec5fd092273d1e3cbb22b378b.png"
         },
         {
             "chainId": 42161,
