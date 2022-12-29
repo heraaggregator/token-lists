@@ -13,7 +13,7 @@
         "minor": 3,
         "patch": 5
     },
-    "timestamp": "2022-12-23T12:49:00+00:00",
+    "timestamp": "2022-12-29T11:35:00+00:00",
     "tags": {
         "base": {
           "name": "Base",
@@ -609,6 +609,15 @@
             "symbol": "MGN",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfc77b86f3ade71793e1eec1e7944db074922856e.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x431402e8b9dE9aa016C743880e04E517074D8cEC",
+            "decimals": 18,
+            "name": "Hegic",
+            "symbol": "HEGIC",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x431402e8b9de9aa016c743880e04e517074d8cec.png"
         },
         {
             "chainId": 42161,
