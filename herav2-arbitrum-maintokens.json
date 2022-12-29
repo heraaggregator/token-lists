@@ -621,6 +621,15 @@
         },
         {
             "chainId": 42161,
+            "address": "0x07E49d5dE43DDA6162Fa28D24d5935C151875283",
+            "decimals": 18,
+            "name": "CVI",
+            "symbol": "GOVI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x07e49d5de43dda6162fa28d24d5935c151875283.png"
+        },
+        {
+            "chainId": 42161,
             "address": "0x5575552988A3A80504bBaeB1311674fCFd40aD4B",
             "decimals": 18,
             "name": "Sperax",
