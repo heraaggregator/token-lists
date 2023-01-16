@@ -789,6 +789,15 @@
             "symbol": "WOO",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x319e222De462ac959BAf2aEc848697AeC2bbD770",
+            "decimals": 18,
+            "name": "OreoSwap",
+            "symbol": "OREO",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x319e222de462ac959baf2aec848697aec2bbd770.png"
         }
     ]
 }
