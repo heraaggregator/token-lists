@@ -11,9 +11,9 @@
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 5
+        "patch": 6
     },
-    "timestamp": "2022-12-29T11:35:00+00:00",
+    "timestamp": "2023-01-16T11:35:00+00:00",
     "tags": {
         "base": {
           "name": "Base",
