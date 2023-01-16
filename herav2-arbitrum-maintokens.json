@@ -594,6 +594,24 @@
         },
         {
             "chainId": 42161,
+            "address": "0xC47D9753F3b32aA9548a7C3F30b6aEc3B2d2798C",
+            "decimals": 18,
+            "name": "Tender.fi",
+            "symbol": "TND",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xc47d9753f3b32aa9548a7c3f30b6aec3b2d2798c.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+            "decimals": 18,
+            "name": "Gains Network",
+            "symbol": "GNS",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x18c11fd286c5ec11c3b683caa813b77f5163a122.png"
+        },
+        {
+            "chainId": 42161,
             "address": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
             "decimals": 18,
             "name": "Lido DAO Token",
