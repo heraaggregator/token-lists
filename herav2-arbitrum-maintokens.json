@@ -11,9 +11,9 @@
     "version": {
         "major": 2,
         "minor": 3,
-        "patch": 6
+        "patch": 7
     },
-    "timestamp": "2023-01-16T11:35:00+00:00",
+    "timestamp": "2023-01-21T11:35:00+00:00",
     "tags": {
         "base": {
           "name": "Base",
@@ -798,6 +798,24 @@
             "symbol": "OREO",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x319e222de462ac959baf2aec848697aec2bbd770.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xdA51015b73cE11F77A115Bb1b8a7049e02dDEcf0",
+            "decimals": 18,
+            "name": "Neutra Token",
+            "symbol": "NEU",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xda51015b73ce11f77a115bb1b8a7049e02ddecf0.svg"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x02150e97271fDC0D6E3A16d9094A0948266F07dD",
+            "decimals": 18,
+            "name": "Hamachi",
+            "symbol": "HAMI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x02150e97271fdc0d6e3a16d9094a0948266f07dd.png"
         }
     ]
 }
