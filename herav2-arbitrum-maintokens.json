@@ -816,6 +816,15 @@
             "symbol": "HAMI",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x02150e97271fdc0d6e3a16d9094a0948266f07dd.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x088cd8f5eF3652623c22D48b1605DCfE860Cd704",
+            "decimals": 18,
+            "name": "Vela Token",
+            "symbol": "VELA",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x088cd8f5ef3652623c22d48b1605dcfe860cd704.png"
         }
     ]
 }
