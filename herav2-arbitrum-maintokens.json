@@ -5,15 +5,15 @@
         "arbitrum",
         "hera main tokens",
         "hera dex aggregator",
-        "arbitrum one",
+        "dex aggregator",
         "ethereum"
     ],
     "version": {
         "major": 2,
-        "minor": 3,
-        "patch": 8
+        "minor": 4,
+        "patch": 1
     },
-    "timestamp": "2023-01-28T11:35:00+00:00",
+    "timestamp": "2023-02-15T11:35:00+00:00",
     "tags": {
         "base": {
           "name": "Base",
@@ -825,6 +825,60 @@
             "symbol": "VELA",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x088cd8f5ef3652623c22d48b1605dcfe860cd704.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+            "decimals": 18,
+            "name": "JoeToken",
+            "symbol": "JOE",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a",
+            "decimals": 9,
+            "name": "TridentDAO",
+            "symbol": "PSI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x602eb0d99a5e3e76d1510372c4d2020e12eaea8a.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x3B475F6f2f41853706afc9Fa6a6b8C5dF1a2724c",
+            "decimals": 18,
+            "name": "Zyber Token",
+            "symbol": "ZYB",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3b475f6f2f41853706afc9fa6a6b8c5df1a2724c.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x463913D3a3D3D291667D53B8325c598Eb88D3B0e",
+            "decimals": 18,
+            "name": "SolidLizard",
+            "symbol": "SLIZ",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x463913d3a3d3d291667d53b8325c598eb88d3b0e.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xDd8e557C8804D326c72074e987de02A23ae6Ef84",
+            "decimals": 18,
+            "name": "ArbInu",
+            "symbol": "ARBINU",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xdd8e557c8804d326c72074e987de02a23ae6ef84.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x7F465507f058e17Ad21623927a120ac05CA32741",
+            "decimals": 18,
+            "name": "Arcadeum",
+            "symbol": "ARC",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x7f465507f058e17ad21623927a120ac05ca32741.png"
         }
     ]
 }
