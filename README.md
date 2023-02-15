@@ -1,8 +1,12 @@
-# Hera Tokenlists
+# Hera Dex Aggregator - Tokenlists
 
 ### Active Tokenlists
 
 1. **Metis:** [heramain-v2.tokenlist.json](./heramain-v2.tokenlist.json)
+
+### Pending Tokenlists
+
+1. **Arbitrum:** [herav2-arbitrum-maintokens.json](./herav2-arbitrum-maintokens.json)
 
 Token Lists is a specification for lists of token metadata (e.g. address, decimals, etc.) that can be used by any dApp
 interfaces that needs one or more lists of tokens. Anyone can create and maintain a token list, as long as they follow
@@ -16,6 +20,7 @@ the specification. The Hera community invites you to add your token to our token
 1. Token should be verified on token explorers.
 2. Token must be added to a list that it qualifies for:
     * **[Hera Main Tokenlist - Metis](./heramain-v2.tokenlist.json)**: Token must be in the Andromeda network!
+    * **[Hera Arbitrum Main Tokens - Metis](./herav2-arbitrum-maintokens.json)**: Token must be in the Arbitrum chain!
 
 
 ## Adding Your Token
@@ -27,7 +32,7 @@ the specification. The Hera community invites you to add your token to our token
         "name": "Ether",
         "symbol": "WETH",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/ETH/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png" // Logo URL
     }
     ```
 2. Update the `timestamp` field to the current timestamp.
@@ -47,4 +52,5 @@ List creation is encouraged! The Hera team wants the community to develop their 
 
 ## Adding Your Token Logo
 
-Hera token logos are [hosted here](https://github.com/heraaggregator/tokens).
+* Token logos are [hosted here](https://github.com/heraaggregator/tokens) for Metis side.
+* Token logos are [hosted here](https://github.com/heraaggregator/arbitrum-tokens) for Arbitrum side.
