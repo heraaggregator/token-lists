@@ -360,15 +360,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0x500756c7D239AeE30f52C7e52AF4F4F008d1A98f",
-            "decimals": 18,
-            "name": "Petroleum OIL",
-            "symbol": "OIL",
-            "tags": [],
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x500756c7d239aee30f52c7e52af4f4f008d1a98f.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
             "decimals": 18,
             "name": "Spell Token",
