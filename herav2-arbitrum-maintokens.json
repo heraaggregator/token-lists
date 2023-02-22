@@ -915,6 +915,15 @@
             "symbol": "FCTR",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6dd963c510c2d2f09d5eddb48ede45fed063eb36.jpg"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x417a1aFD44250314BffB11ff68E989775e990ab6",
+            "decimals": 18,
+            "name": "Volta Protocol Token",
+            "symbol": "VOLTA",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x417a1afd44250314bffb11ff68e989775e990ab6.png"
         }
     ]
 }
