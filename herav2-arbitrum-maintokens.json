@@ -1,5 +1,5 @@
 {
-    "name": "HeraV2 Arbitrum Main Tokens",
+    "name": "Hera Arbitrum Main Tokens",
     "logoURI": "https://raw.githubusercontent.com/heraaggregator/token-lists/main/hera.svg",
     "keywords": [
         "arbitrum",
@@ -11,9 +11,9 @@
     "version": {
         "major": 2,
         "minor": 4,
-        "patch": 1
+        "patch": 3
     },
-    "timestamp": "2023-02-15T11:35:00+00:00",
+    "timestamp": "2023-02-22T11:35:00+00:00",
     "tags": {
         "base": {
           "name": "Base",
@@ -870,6 +870,51 @@
             "symbol": "ARC",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x7f465507f058e17ad21623927a120ac05ca32741.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x982239D38Af50B0168dA33346d85Fb12929c4c07",
+            "decimals": 18,
+            "name": "Arbitrove Governance Token",
+            "symbol": "TROVE",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x982239d38af50b0168da33346d85fb12929c4c07.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+            "decimals": 18,
+            "name": "Pendle",
+            "symbol": "PENDLE",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x079504b86d38119F859c4194765029F692b7B7aa",
+            "decimals": 18,
+            "name": "Lyra Token",
+            "symbol": "LYRA",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x079504b86d38119f859c4194765029f692b7b7aa.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xe66998533a1992ecE9eA99cDf47686F4fc8458E0",
+            "decimals": 18,
+            "name": "Jones USDC",
+            "symbol": "jUSDC",
+            "tags": ["stable"],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xe66998533a1992ece9ea99cdf47686f4fc8458e0.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36",
+            "decimals": 18,
+            "name": "FactorDAO",
+            "symbol": "FCTR",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6dd963c510c2d2f09d5eddb48ede45fed063eb36.jpg"
         }
     ]
 }
