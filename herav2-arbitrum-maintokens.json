@@ -11,9 +11,9 @@
     "version": {
         "major": 2,
         "minor": 4,
-        "patch": 3
+        "patch": 4
     },
-    "timestamp": "2023-02-22T11:35:00+00:00",
+    "timestamp": "2023-02-27T11:35:00+00:00",
     "tags": {
         "base": {
           "name": "Base",
@@ -112,7 +112,7 @@
             "decimals": 18,
             "name": "ChainLink Token",
             "symbol": "LINK",
-            "tags": ["base"],
+            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xf97f4df75117a78c1a5a0dbb814af92458539fb4.png"
         },
         {
@@ -229,7 +229,7 @@
             "decimals": 18,
             "name": "Camelot Grail",
             "symbol": "GRAIL",
-            "tags": [],
+            "tags": ["base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8.svg"
         },
         {
@@ -319,7 +319,7 @@
             "decimals": 18,
             "name": "Mycelium",
             "symbol": "MYC",
-            "tags": ["base"],
+            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xc74fe4c715510ec2f8c61d70d397b32043f55abe.png"
         },
         {
@@ -924,6 +924,15 @@
             "symbol": "VOLTA",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x417a1afd44250314bffb11ff68e989775e990ab6.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x73eD68B834e44096eB4beA6eDeAD038c945722F1",
+            "decimals": 18,
+            "name": "SharkySwap",
+            "symbol": "SHARKY",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x73ed68b834e44096eb4bea6edead038c945722f1.png"
         }
     ]
 }
