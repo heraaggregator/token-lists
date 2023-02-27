@@ -270,12 +270,20 @@
             "symbol": "MAI",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xdfa46478f9e5ea86d57387849598dbfb2e964b02/logo.png"
         },
+  {
+            "chainId": 1088,
+            "address": "0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b",
+            "decimals": 18,
+            "name": "Wrapped Monkex",
+            "symbol": "WMONKEX",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b/logo.png"
+        },
         {
             "chainId": 1088,
             "address": "0x186573b175adf5801cf95fb06b232ccab123c6f4",
             "decimals": 18,
             "name": "Monkex",
-            "symbol": "Monkex",
+            "symbol": "MONKEX",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x186573b175adf5801cf95fb06b232ccab123c6f4/logo.png"
         }
     ],
