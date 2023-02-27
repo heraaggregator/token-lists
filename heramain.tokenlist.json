@@ -256,6 +256,22 @@
         },
         {
             "chainId": 1088,
+            "address": "0x186573b175aDF5801cF95Fb06b232ccAB123c6F4",
+            "decimals": 18,
+            "name": "Monkex",
+            "symbol": "MONKEX",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x186573b175aDF5801cF95Fb06b232ccAB123c6F4/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b",
+            "decimals": 18,
+            "name": "Wrapped Monkex",
+            "symbol": "WMONKEX",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b/logo.png"
+        },
+        {
+            "chainId": 1088,
             "address": "0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c",
             "decimals": 18,
             "name": "Sushi Token",
@@ -264,5 +280,5 @@
         }
         
     ],
-    "timestamp": "2022-08-13T06:28:00+00:00"
+    "timestamp": "2023-02-27"
 }
