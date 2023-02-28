@@ -409,7 +409,7 @@
             "decimals": 18,
             "name": "Vesta Stable",
             "symbol": "VST",
-            "tags": ["stable", "base"],
+            "tags": ["stable"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x64343594ab9b56e99087bfa6f2335db24c2d1f17.svg"
         },
         {
