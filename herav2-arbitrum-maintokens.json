@@ -90,15 +90,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
-            "decimals": 8,
-            "name": "renBTC",
-            "symbol": "renBTC",
-            "tags": [],
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xdbf31df14b66535af65aac99c32e9ea844e14501.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
             "decimals": 18,
             "name": "Wrapped liquid staked Ether 2.0",
@@ -157,7 +148,7 @@
             "decimals": 18,
             "name": "Dopex Rebate Token",
             "symbol": "RDPX ",
-            "tags": [],
+            "tags": ["base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x32eb7902d4134bf98a28b963d26de779af92a212.png"
         },
         {
@@ -175,7 +166,7 @@
             "decimals": 18,
             "name": "GMD",
             "symbol": "GMD",
-            "tags": [],
+            "tags": ["base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x4945970efeec98d393b4b979b9be265a3ae28a8b.png"
         },
         {
@@ -202,7 +193,7 @@
             "decimals": 18,
             "name": "Jones DAO",
             "symbol": "JONES",
-            "tags": [],
+            "tags": ["base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x10393c20975cf177a3513071bc110f7962cd67da.png"
         },
         {
@@ -211,7 +202,7 @@
             "decimals": 18,
             "name": "Radiant",
             "symbol": "RDNT",
-            "tags": [],
+            "tags": ["base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017.png"
         },
         {
@@ -220,7 +211,7 @@
             "decimals": 18,
             "name": "Plutus",
             "symbol": "PLS",
-            "tags": [],
+            "tags": ["base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x51318b7d00db7acc4026c88c3952b66278b6a67f.png"
         },
         {
@@ -373,8 +364,17 @@
             "decimals": 18,
             "name": "agEUR",
             "symbol": "agEUR",
-            "tags": ["stable"],
+            "tags": ["stable","base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfa5ed56a203466cbbc2430a43c66b9d8723528e7.svg"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xAD435674417520aeeED6b504bBe654d4f556182F",
+            "decimals": 18,
+            "name": "Jarvis Synthetic Euro",
+            "symbol": "jEUR",
+            "tags": ["stable","base"],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xad435674417520aeeed6b504bbe654d4f556182f.png"
         },
         {
             "chainId": 42161,
@@ -598,7 +598,7 @@
             "decimals": 18,
             "name": "Gains Network",
             "symbol": "GNS",
-            "tags": [],
+            "tags": ["base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x18c11fd286c5ec11c3b683caa813b77f5163a122.png"
         },
         {
