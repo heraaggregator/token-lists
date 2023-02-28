@@ -418,7 +418,7 @@
             "decimals": 18,
             "name": "dForce USD",
             "symbol": "USX",
-            "tags": ["stable"],
+            "tags": ["stable","base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x641441c631e2f909700d2f41fd87f0aa6a6b4edb.svg"
         },
         {
@@ -481,7 +481,7 @@
             "decimals": 18,
             "name": "dForce",
             "symbol": "DF",
-            "tags": ["base"],
+            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xae6aab43c4f3e0cea4ab83752c278f8debaba689.png"
         },
         {
@@ -814,7 +814,7 @@
             "decimals": 18,
             "name": "Vela Token",
             "symbol": "VELA",
-            "tags": [],
+            "tags": ["base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x088cd8f5ef3652623c22d48b1605dcfe860cd704.png"
         },
         {
