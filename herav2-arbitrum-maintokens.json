@@ -11,9 +11,9 @@
     "version": {
         "major": 2,
         "minor": 4,
-        "patch": 4
+        "patch": 5
     },
-    "timestamp": "2023-02-27T11:35:00+00:00",
+    "timestamp": "2023-02-28T09:35:00+00:00",
     "tags": {
         "base": {
           "name": "Base",
@@ -933,6 +933,33 @@
             "symbol": "SHARKY",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x73ed68b834e44096eb4bea6edead038c945722f1.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x5DB7b150c5F38c5F5db11dCBDB885028fcC51D68",
+            "decimals": 18,
+            "name": "Sterling",
+            "symbol": "STR",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x5db7b150c5f38c5f5db11dcbdb885028fcc51d68.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6740Acb82ac5C63A7ad2397ee1faed7c788F5f8c",
+            "decimals": 18,
+            "name": "AlienFi",
+            "symbol": "ALIEN",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6740acb82ac5c63a7ad2397ee1faed7c788f5f8c.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x9dB8a10C7FE60d84397860b3aF2E686D4F90C2b7",
+            "decimals": 18,
+            "name": "Arbiswap Token",
+            "symbol": "ARBI",
+            "tags": [],
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x9db8a10c7fe60d84397860b3af2e686d4f90c2b7.png"
         }
     ]
 }
