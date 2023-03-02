@@ -72,14 +72,6 @@
         },
         {
             "chainId": 1088,
-            "address": "0xb26F58f0b301a077cFA779c0B0f8281C7f936Ac0",
-            "decimals": 18,
-            "name": "Starstream",
-            "symbol": "STARS",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb26F58f0b301a077cFA779c0B0f8281C7f936Ac0/logo.png"
-        },
-        {
-            "chainId": 1088,
             "address": "0x721532bC0dA5ffaeB0a6A45fB24271E8098629A7",
             "decimals": 18,
             "name": "BinaryDAO Token",
@@ -245,6 +237,14 @@
             "name": "Binance USD",
             "symbol": "m.BUSD",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x12D84f1CFe870cA9C9dF9785f8954341d7fbb249",
+            "decimals": 18,
+            "name": "Poly-Peg BUSD",
+            "symbol": "BUSD",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x12d84f1cfe870ca9c9df9785f8954341d7fbb249/logo.png"
         },
         {
             "chainId": 1088,
