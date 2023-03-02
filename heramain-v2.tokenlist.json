@@ -11,7 +11,7 @@
     "version": {
         "major": 9,
         "minor": 1,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -279,5 +279,5 @@
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x186573b175adf5801cf95fb06b232ccab123c6f4/logo.png"
         }
     ],
-    "timestamp": "2022-11-24T06:28:00+00:00"
+    "timestamp": "2023-03-02T02:28:00+00:00"
 }
