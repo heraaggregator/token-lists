@@ -951,15 +951,6 @@
             "symbol": "ALIEN",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6740acb82ac5c63a7ad2397ee1faed7c788f5f8c.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x9dB8a10C7FE60d84397860b3aF2E686D4F90C2b7",
-            "decimals": 18,
-            "name": "Arbiswap Token",
-            "symbol": "ARBI",
-            "tags": [],
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x9db8a10c7fe60d84397860b3af2e686d4f90c2b7.png"
         }
     ]
 }
