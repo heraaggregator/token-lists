@@ -11,9 +11,9 @@
     "version": {
         "major": 2,
         "minor": 4,
-        "patch": 5
+        "patch": 6
     },
-    "timestamp": "2023-02-28T09:35:00+00:00",
+    "timestamp": "2023-03-03T09:35:00+00:00",
     "tags": {
         "base": {
           "name": "Base",
@@ -711,60 +711,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
-            "decimals": 6,
-            "name": "Aave Arbitrum USDT",
-            "symbol": "aArbUSDT",
-            "tags": ["stable"],
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6ab707aca953edaefbc4fd23ba73294241490620.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530",
-            "decimals": 18,
-            "name": "Aave Arbitrum LINK",
-            "symbol": "aArbLINK",
-            "tags": [],
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x191c10aa4af7c30e871e70c95db0e4eb77237530.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x078f358208685046a11C85e8ad32895DED33A249",
-            "decimals": 8,
-            "name": "Aave Arbitrum WBTC",
-            "symbol": "aArbWBTC",
-            "tags": [],
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x078f358208685046a11c85e8ad32895ded33a249.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
-            "decimals": 6,
-            "name": "Aave Arbitrum USDC",
-            "symbol": "aArbUSDC",
-            "tags": ["stable"],
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x625e7708f30ca75bfd92586e17077590c60eb4cd.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
-            "decimals": 18,
-            "name": "Aave Arbitrum DAI",
-            "symbol": "aArbDAI",
-            "tags": ["stable"],
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
-            "decimals": 18,
-            "name": "Aave Arbitrum WETH",
-            "symbol": "aArbWETH",
-            "tags": [],
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
             "decimals": 18,
             "name": "Curve.fi USDC/USDT",
@@ -924,15 +870,6 @@
             "symbol": "VOLTA",
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x417a1afd44250314bffb11ff68e989775e990ab6.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x73eD68B834e44096eB4beA6eDeAD038c945722F1",
-            "decimals": 18,
-            "name": "SharkySwap",
-            "symbol": "SHARKY",
-            "tags": [],
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x73ed68b834e44096eb4bea6edead038c945722f1.png"
         },
         {
             "chainId": 42161,
