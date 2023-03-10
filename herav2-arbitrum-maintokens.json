@@ -84,7 +84,6 @@
             "decimals": 18,
             "name": "ChainLink Token",
             "symbol": "LINK",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xf97f4df75117a78c1a5a0dbb814af92458539fb4.png"
         },
         {
@@ -133,7 +132,6 @@
             "decimals": 18,
             "name": "MCDEX Token",
             "symbol": "MCB",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42.png"
         },
         {
@@ -150,7 +148,6 @@
             "decimals": 18,
             "name": "Plutus DPX",
             "symbol": "plsDPX",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xf236ea74b515ef96a9898f5a4ed4aa591f253ce1.svg"
         },
         {
@@ -159,7 +156,6 @@
             "decimals": 18,
             "name": "Plutus JONES",
             "symbol": "plsJONES",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xe7f6c3c1f0018e4c08acc52965e5cbff99e34a44.svg"
         },
         {
@@ -200,7 +196,6 @@
             "decimals": 18,
             "name": "SwapFish",
             "symbol": "FISH",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xb348b87b23d5977e2948e6f36ca07e1ec94d7328.webp"
         },
         {
@@ -209,7 +204,6 @@
             "decimals": 18,
             "name": "HonorWorld Token",
             "symbol": "HWT",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xbcc9c1763d54427bdf5efb6e9eb9494e5a1fbabf.png"
         },
         {
@@ -218,7 +212,6 @@
             "decimals": 18,
             "name": "Y2K",
             "symbol": "Y2K",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x65c936f008bc34fe819bce9fa5afd9dc2d49977f.png"
         },
         {
@@ -227,7 +220,6 @@
             "decimals": 18,
             "name": "Oath Token",
             "symbol": "OATH",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xa1150db5105987cec5fd092273d1e3cbb22b378b.png"
         },
         {
@@ -236,7 +228,6 @@
             "decimals": 18,
             "name": "3xcalibur Ecosystem Token",
             "symbol": "XCAL",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xd2568accd10a4c98e87c44e9920360031ad89fcb.png"
         },
         {
@@ -245,7 +236,6 @@
             "decimals": 18,
             "name": "SushiToken",
             "symbol": "SUSHI",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xd4d42f0b6def4ce0383636770ef773390d85c61a.png"
         },
         {
@@ -254,7 +244,6 @@
             "decimals": 18,
             "name": "Buffer Token",
             "symbol": "BFR",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d.png"
         },
         {
@@ -263,7 +252,6 @@
             "decimals": 18,
             "name": "StargateToken",
             "symbol": "STG",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6694340fc020c5e6b96567843da2df01b2ce1eb6.png"
         },
         {
@@ -272,7 +260,6 @@
             "decimals": 18,
             "name": "Uniswap",
             "symbol": "UNI",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0.png"
         },
         {
@@ -281,7 +268,6 @@
             "decimals": 18,
             "name": "Mycelium",
             "symbol": "MYC",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xc74fe4c715510ec2f8c61d70d397b32043f55abe.png"
         },
         {
@@ -290,7 +276,6 @@
             "decimals": 18,
             "name": "Balancer",
             "symbol": "BAL",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8.png"
         },
         {
@@ -299,7 +284,6 @@
             "decimals": 18,
             "name": "Lodestar",
             "symbol": "LODE",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xf19547f9ed24aa66b03c3a552d181ae334fbb8db.png"
         },
         {
@@ -308,7 +292,6 @@
             "decimals": 18,
             "name": "Vesta",
             "symbol": "VSTA",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xa684cd057951541187f288294a1e1c2646aa2d24.png"
         },
         {
@@ -317,7 +300,6 @@
             "decimals": 9,
             "name": "Umami",
             "symbol": "UMAMI",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x1622bf67e6e5747b81866fe0b85178a93c7f86e3.png"
         },
         {
@@ -326,7 +308,6 @@
             "decimals": 18,
             "name": "Spell Token",
             "symbol": "SPELL",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af.png"
         },
         {
@@ -361,7 +342,6 @@
             "decimals": 18,
             "name": "Livepeer Token",
             "symbol": "LPT",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x289ba1701c2f088cf0faf8b3705246331cb8a839.png"
         },
         {
@@ -370,7 +350,6 @@
             "decimals": 18,
             "name": "Swapr",
             "symbol": "SWPR",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xde903e2712288a1da82942dddf2c20529565ac30.png"
         },
         {
@@ -437,7 +416,6 @@
             "decimals": 18,
             "name": "Frax Share",
             "symbol": "FXS",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7.png"
         },
         {
@@ -446,7 +424,6 @@
             "decimals": 18,
             "name": "dForce",
             "symbol": "DF",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xae6aab43c4f3e0cea4ab83752c278f8debaba689.png"
         },
         {
@@ -455,7 +432,6 @@
             "decimals": 18,
             "name": "Curve DAO Token",
             "symbol": "CRV",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x11cdb42b0eb46d95f990bedd4695a6e3fa034978.png"
         },
         {
@@ -464,7 +440,6 @@
             "decimals": 18,
             "name": "Gnosis Token",
             "symbol": "GNO",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xa0b862f60edef4452f25b4160f177db44deb6cf1.png"
         },
         {
@@ -473,7 +448,6 @@
             "decimals": 18,
             "name": "Badger",
             "symbol": "BADGER",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xbfa641051ba0a0ad1b0acf549a89536a0d76472e.png"
         },
         {
@@ -482,7 +456,6 @@
             "decimals": 18,
             "name": "Compound",
             "symbol": "COMP",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x354a6da3fcde098f8389cad84b0182725c6c91de.png"
         },
         {
@@ -491,7 +464,6 @@
             "decimals": 18,
             "name": "deBridge Ether",
             "symbol": "deETH",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xcab86f6fb6d1c2cbeeb97854a0c023446a075fe3.webp"
         },
         {
@@ -508,7 +480,6 @@
             "decimals": 18,
             "name": "DXdao",
             "symbol": "DXD",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xc3ae0333f0f34aa734d5493276223d95b8f9cb37.png"
         },
         {
@@ -517,7 +488,6 @@
             "decimals": 18,
             "name": "Elk Finance",
             "symbol": "ELK",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png"
         },
         {
@@ -526,7 +496,6 @@
             "decimals": 18,
             "name": "Premia",
             "symbol": "PREMIA",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x51fc0f6660482ea73330e414efd7808811a57fa2.png"
         },
         {
@@ -535,7 +504,6 @@
             "decimals": 18,
             "name": "DODO",
             "symbol": "DODO",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x69eb4fa4a2fbd498c257c57ea8b7655a2559a581.png"
         },
         {
@@ -544,7 +512,6 @@
             "decimals": 18,
             "name": "Cap",
             "symbol": "CAP",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x031d35296154279dc1984dcd93e392b1f946737b.png"
         },
         {
@@ -553,7 +520,6 @@
             "decimals": 18,
             "name": "Tender.fi",
             "symbol": "TND",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xc47d9753f3b32aa9548a7c3f30b6aec3b2d2798c.png"
         },
         {
@@ -570,7 +536,6 @@
             "decimals": 18,
             "name": "Lido DAO Token",
             "symbol": "LDO",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60.png"
         },
         {
@@ -579,7 +544,6 @@
             "decimals": 18,
             "name": "Mugen",
             "symbol": "MGN",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfc77b86f3ade71793e1eec1e7944db074922856e.png"
         },
         {
@@ -588,7 +552,6 @@
             "decimals": 18,
             "name": "Hegic",
             "symbol": "HEGIC",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x431402e8b9de9aa016c743880e04e517074d8cec.png"
         },
         {
@@ -597,7 +560,6 @@
             "decimals": 18,
             "name": "CVI",
             "symbol": "GOVI",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x07e49d5de43dda6162fa28d24d5935c151875283.png"
         },
         {
@@ -606,7 +568,6 @@
             "decimals": 18,
             "name": "Sperax",
             "symbol": "SPA",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x5575552988a3a80504bbaeb1311674fcfd40ad4b.png"
         },
         {
@@ -615,7 +576,6 @@
             "decimals": 18,
             "name": "NitroShiba",
             "symbol": "NISHIB",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x4dad357726b41bb8932764340ee9108cc5ad33a0.png"
         },
         {
@@ -624,7 +584,6 @@
             "decimals": 18,
             "name": "Ellerium",
             "symbol": "ELM",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x45d55eadf0ed5495b369e040af0717eafae3b731.png"
         },
         {
@@ -633,7 +592,6 @@
             "decimals": 18,
             "name": "Doubloon Token",
             "symbol": "DBL",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xd3f1da62cafb7e7bc6531ff1cef6f414291f03d3.png"
         },
         {
@@ -642,7 +600,6 @@
             "decimals": 18,
             "name": "Yieldification",
             "symbol": "YDF",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x30dcba0405004cf124045793e1933c798af9e66a.png"
         },
         {
@@ -651,7 +608,6 @@
             "decimals": 18,
             "name": "Governance OHM",
             "symbol": "gOHM",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x8d9ba570d6cb60c7e3e0f31343efe75ab8e65fb1.png"
         },
         {
@@ -660,7 +616,6 @@
             "decimals": 18,
             "name": "Liquid",
             "symbol": "LIQD",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x93c15cd7de26f07265f0272e0b831c5d7fab174f.png"
         },
         {
@@ -669,7 +624,6 @@
             "decimals": 18,
             "name": "Kromatika",
             "symbol": "KROM",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x55ff62567f09906a85183b866df84bf599a4bf70.png"
         },
         {
@@ -686,7 +640,6 @@
             "decimals": 18,
             "name": "Wootrade Network",
             "symbol": "WOO",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b.png"
         },
         {
@@ -695,7 +648,6 @@
             "decimals": 18,
             "name": "OreoSwap",
             "symbol": "OREO",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x319e222de462ac959baf2aec848697aec2bbd770.png"
         },
         {
@@ -704,7 +656,6 @@
             "decimals": 18,
             "name": "Neutra Token",
             "symbol": "NEU",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xda51015b73ce11f77a115bb1b8a7049e02ddecf0.svg"
         },
         {
@@ -713,7 +664,6 @@
             "decimals": 18,
             "name": "Hamachi",
             "symbol": "HAMI",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x02150e97271fdc0d6e3a16d9094a0948266f07dd.png"
         },
         {
@@ -730,7 +680,6 @@
             "decimals": 18,
             "name": "JoeToken",
             "symbol": "JOE",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07.png"
         },
         {
@@ -739,7 +688,6 @@
             "decimals": 9,
             "name": "TridentDAO",
             "symbol": "PSI",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x602eb0d99a5e3e76d1510372c4d2020e12eaea8a.webp"
         },
         {
@@ -748,7 +696,6 @@
             "decimals": 18,
             "name": "Zyber Token",
             "symbol": "ZYB",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3b475f6f2f41853706afc9fa6a6b8c5df1a2724c.png"
         },
         {
@@ -757,7 +704,6 @@
             "decimals": 18,
             "name": "SolidLizard",
             "symbol": "SLIZ",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x463913d3a3d3d291667d53b8325c598eb88d3b0e.png"
         },
         {
@@ -766,7 +712,6 @@
             "decimals": 18,
             "name": "ArbInu",
             "symbol": "ARBINU",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xdd8e557c8804d326c72074e987de02a23ae6ef84.png"
         },
         {
@@ -775,7 +720,6 @@
             "decimals": 18,
             "name": "Arcadeum",
             "symbol": "ARC",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x7f465507f058e17ad21623927a120ac05ca32741.png"
         },
         {
@@ -784,7 +728,6 @@
             "decimals": 18,
             "name": "Arbitrove Governance Token",
             "symbol": "TROVE",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x982239d38af50b0168da33346d85fb12929c4c07.png"
         },
         {
@@ -793,7 +736,6 @@
             "decimals": 18,
             "name": "Pendle",
             "symbol": "PENDLE",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8.webp"
         },
         {
@@ -802,7 +744,6 @@
             "decimals": 18,
             "name": "Lyra Token",
             "symbol": "LYRA",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x079504b86d38119f859c4194765029f692b7b7aa.webp"
         },
         {
@@ -819,7 +760,6 @@
             "decimals": 18,
             "name": "FactorDAO",
             "symbol": "FCTR",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6dd963c510c2d2f09d5eddb48ede45fed063eb36.jpg"
         },
         {
@@ -828,7 +768,6 @@
             "decimals": 18,
             "name": "Volta Protocol Token",
             "symbol": "VOLTA",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x417a1afd44250314bffb11ff68e989775e990ab6.png"
         },
         {
@@ -837,7 +776,6 @@
             "decimals": 18,
             "name": "Sterling",
             "symbol": "STR",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x5db7b150c5f38c5f5db11dcbdb885028fcc51d68.png"
         },
         {
@@ -846,7 +784,6 @@
             "decimals": 18,
             "name": "AlienFi",
             "symbol": "ALIEN",
-            "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6740acb82ac5c63a7ad2397ee1faed7c788f5f8c.png"
         }
     ],
