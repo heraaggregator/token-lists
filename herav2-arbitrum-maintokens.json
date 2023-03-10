@@ -3,7 +3,6 @@
     "logoURI": "https://raw.githubusercontent.com/heraaggregator/token-lists/main/hera.svg",
     "keywords": [
         "arbitrum",
-        "hera main tokens",
         "hera dex aggregator",
         "dex aggregator",
         "ethereum"
@@ -16,11 +15,11 @@
     "timestamp": "2023-03-03T09:35:00+00:00",
     "tags": {
         "base": {
-          "name": "Base",
+          "name": "base",
           "description": "Native and base tokens that will be integrated into the Hera pathfinder and will take place in the multi-hop stage."
         },
         "stable": {
-          "name": "Stable",
+          "name": "stable",
           "description": "Stable tokens that will be integrated into the Hera pathfinder and will take place in the multi-hop stage."
         }
       },
