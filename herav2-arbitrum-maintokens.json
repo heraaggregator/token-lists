@@ -316,7 +316,6 @@
             "decimals": 18,
             "name": "agEUR",
             "symbol": "agEUR",
-            "tags": ["stable","base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfa5ed56a203466cbbc2430a43c66b9d8723528e7.svg"
         },
         {
@@ -325,7 +324,6 @@
             "decimals": 18,
             "name": "Jarvis Synthetic Euro",
             "symbol": "jEUR",
-            "tags": ["stable","base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xad435674417520aeeed6b504bbe654d4f556182f.png"
         },
         {
@@ -366,7 +364,6 @@
             "decimals": 18,
             "name": "dForce USD",
             "symbol": "USX",
-            "tags": ["stable","base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x641441c631e2f909700d2f41fd87f0aa6a6b4edb.svg"
         },
         {
@@ -407,7 +404,6 @@
             "decimals": 18,
             "name": "Frax",
             "symbol": "FRAX",
-            "tags": ["stable","base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x17fc002b466eec40dae837fc4be5c67993ddbd6f.png"
         },
         {
