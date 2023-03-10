@@ -13,6 +13,16 @@
         "patch": 2
     },
     "timestamp": "2023-03-10T09:35:00+00:00",
+    "tags": {
+        "base": {
+          "name": "base",
+          "description": "Native and base tokens that will be integrated into the Hera pathfinder and will take place in the multi-hop stage."
+        },
+        "stable": {
+          "name": "stable",
+          "description": "Stable tokens that will be integrated into the Hera pathfinder and will take place in the multi-hop stage."
+        }
+      },
     "tokens": [
         {
             "chainId": 42161,
@@ -20,6 +30,7 @@
             "decimals": 18,
             "name": "Ether",
             "symbol": "ETH",
+            "tags": ["base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
         },
         {
@@ -28,6 +39,7 @@
             "decimals": 18,
             "name": "Wrapped Ether",
             "symbol": "WETH",
+            "tags": ["base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.png"
         },
         {
@@ -36,6 +48,7 @@
             "decimals": 6,
             "name": "USD Coin",
             "symbol": "USDC",
+            "tags": ["base", "stable"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.png"
         },
         {
@@ -44,6 +57,7 @@
             "decimals": 6,
             "name": "Tether USD",
             "symbol": "USDT",
+            "tags": ["base", "stable"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
         },
         {
@@ -52,6 +66,7 @@
             "decimals": 18,
             "name": "Dai Stablecoin",
             "symbol": "DAI",
+            "tags": ["base", "stable"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1.png"
         },
         {
@@ -60,6 +75,7 @@
             "decimals": 18,
             "name": "GMX",
             "symbol": "GMX",
+            "tags": ["base"],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a.png"
         }
     ]
