@@ -1,76 +1,71 @@
 {
-    "name": "Hera Arbitrum",
-    "logoURI": "https://raw.githubusercontent.com/heraaggregator/token-lists/main/hera.svg",
-    "keywords": [
-        "arbitrum",
-        "hera dex aggregator",
-        "dex aggregator",
-        "ethereum"
-    ],
-    "version": {
-        "major": 3,
-        "minor": 1,
-        "patch": 2
+  "name": "Hera Arbitrum",
+  "logoURI": "https://raw.githubusercontent.com/heraaggregator/token-lists/main/hera.svg",
+  "keywords": ["arbitrum", "hera dex aggregator", "dex aggregator", "ethereum"],
+  "version": {
+    "major": 3,
+    "minor": 1,
+    "patch": 2
+  },
+  "timestamp": "2023-03-10T09:35:00+00:00",
+  "tags": {
+    "base": {
+      "name": "base",
+      "description": "Native and base tokens that will be integrated into the Hera pathfinder and will take place in the multi-hop stage."
     },
-    "timestamp": "2023-03-10T09:35:00+00:00",
-    "tags": {
-        "base": {
-          "name": "base",
-          "description": "Native and base tokens that will be integrated into the Hera pathfinder and will take place in the multi-hop stage."
-        },
-        "stable": {
-          "name": "stable",
-          "description": "Stable tokens that will be integrated into the Hera pathfinder and will take place in the multi-hop stage."
-        }
-      },
-    "tokens": [
-        {
-            "chainId": 42161,
-            "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-            "decimals": 18,
-            "name": "Ether",
-            "symbol": "ETH",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-            "decimals": 18,
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
-            "decimals": 6,
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-            "decimals": 6,
-            "name": "Tether USD",
-            "symbol": "USDT",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-            "decimals": 18,
-            "name": "Dai Stablecoin",
-            "symbol": "DAI",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
-            "decimals": 18,
-            "name": "GMX",
-            "symbol": "GMX",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a.png"
-        }
-    ]
+    "stable": {
+      "name": "stable",
+      "description": "Stable tokens that will be integrated into the Hera pathfinder and will take place in the multi-hop stage."
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x82af49447d8a07e3bd95bd0d56f35241523fbab1.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "decimals": 6,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "decimals": 6,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "decimals": 18,
+      "name": "GMX",
+      "symbol": "GMX",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a.png"
+    }
+  ]
 }
