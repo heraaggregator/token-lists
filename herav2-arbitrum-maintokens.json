@@ -12,7 +12,6 @@
         "minor": 4,
         "patch": 6
     },
-    "timestamp": "2023-03-03T09:35:00+00:00",
     "tags": {
         "base": {
           "name": "base",
@@ -888,5 +887,6 @@
             "tags": [],
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6740acb82ac5c63a7ad2397ee1faed7c788f5f8c.png"
         }
-    ]
+    ],
+    "timestamp": "2023-03-10T09:35:00+00:00",
 }
