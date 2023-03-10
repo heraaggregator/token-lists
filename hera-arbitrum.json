@@ -17,7 +17,6 @@
       "symbol": "ETH",
       "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
     },
-
     {
       "chainId": 42161,
       "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
