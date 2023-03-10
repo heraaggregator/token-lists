@@ -123,6 +123,70 @@
     },
     {
       "chainId": 42161,
+      "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+      "decimals": 18,
+      "name": "MCDEX Token",
+      "symbol": "MCB",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B",
+      "decimals": 18,
+      "name": "GMD",
+      "symbol": "GMD",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x4945970efeec98d393b4b979b9be265a3ae28a8b.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xF236ea74B515eF96a9898F5a4ed4Aa591f253Ce1",
+      "decimals": 18,
+      "name": "Plutus DPX",
+      "symbol": "plsDPX",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xf236ea74b515ef96a9898f5a4ed4aa591f253ce1.svg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44",
+      "decimals": 18,
+      "name": "Plutus JONES",
+      "symbol": "plsJONES",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xe7f6c3c1f0018e4c08acc52965e5cbff99e34a44.svg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x10393c20975cF177a3513071bC110f7962CD67da",
+      "decimals": 18,
+      "name": "Jones DAO",
+      "symbol": "JONES",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x10393c20975cf177a3513071bc110f7962cd67da.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
+      "decimals": 18,
+      "name": "Radiant",
+      "symbol": "RDNT",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x51318B7D00db7ACc4026C88c3952B66278B6A67F",
+      "decimals": 18,
+      "name": "Plutus",
+      "symbol": "PLS",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x51318b7d00db7acc4026c88c3952b66278b6a67f.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8",
+      "decimals": 18,
+      "name": "Camelot Grail",
+      "symbol": "GRAIL",
+      "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3d9907F9a368ad0a51Be60f7Da3b97cf940982D8.svg"
+    },
+    {
+      "chainId": 42161,
       "address": "0xb348B87b23D5977E2948E6f36ca07E1EC94d7328",
       "decimals": 18,
       "name": "SwapFish",
