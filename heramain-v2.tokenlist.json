@@ -16,7 +16,7 @@
     "tokens": [
         {
             "chainId": 1088,
-            "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+            "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
             "decimals": 6,
             "name": "USDC Token",
             "symbol": "m.USDC",
@@ -24,7 +24,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+            "address": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
             "decimals": 6,
             "name": "USDT Token",
             "symbol": "m.USDT",
@@ -96,7 +96,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0xf5f66d5daa89c090a7afa10e6c1553b2887a9a33",
+            "address": "0xf5F66d5daa89c090A7afa10E6C1553B2887a9A33",
             "decimals": 18,
             "name": "LINK Token",
             "symbol": "m.LINK",
@@ -120,7 +120,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0x2692be44a6e38b698731fddf417d060f0d20a0cb",
+            "address": "0x2692BE44A6E38B698731fDDf417d060f0d20A0cB",
             "decimals": 18,
             "name": "Poly-Peg BNB",
             "symbol": "BNB",
@@ -128,7 +128,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0xe253e0cea0cdd43d9628567d097052b33f98d611",
+            "address": "0xE253E0CeA0CDD43d9628567d097052B33F98D611",
             "decimals": 18,
             "name": "Avalanche Token",
             "symbol": "rAVAX",
@@ -136,7 +136,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0xa9109271abcf0c4106ab7366b4edb34405947eed",
+            "address": "0xa9109271abcf0C4106Ab7366B4eDB34405947eED",
             "decimals": 18,
             "name": "Fantom Token",
             "symbol": "rFTM",
@@ -152,7 +152,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0x4b9d2923d875edf43980bf5ddddede3fb20fc742",
+            "address": "0x4b9D2923D875edF43980BF5dddDEde3Fb20fC742",
             "decimals": 18,
             "name": "Matic Token",
             "symbol": "MATIC",
@@ -160,7 +160,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0x1f5550a0f5f659e07506088a7919a88dff37218f",
+            "address": "0x1F5550A0F5F659E07506088A7919A88DfF37218f",
             "decimals": 18,
             "name": "PEAK",
             "symbol": "PEAK",
@@ -168,7 +168,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0xa31848aa61f784cdbb6f74260d224a4356295799",
+            "address": "0xA31848AA61F784CDBb6F74260d224A4356295799",
             "decimals": 18,
             "name": "Dexpools Token",
             "symbol": "DXP",
@@ -176,7 +176,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0xfe540d6dbad8c68928778aaf2be828efa4b44fa2",
+            "address": "0xFE540D6dbAD8C68928778AaF2Be828efA4b44Fa2",
             "decimals": 18,
             "name": "Aerarium Fi",
             "symbol": "AERA",
@@ -192,7 +192,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0x4aac94985cd83be30164dfe7e9af7c054d7d2121",
+            "address": "0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121",
             "decimals": 18,
             "name": "Hummus",
             "symbol": "HUM",
@@ -224,7 +224,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c",
+            "address": "0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C",
             "decimals": 18,
             "name": "Sushi Token",
             "symbol": "m.SUSHI",
@@ -240,7 +240,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0x433e43047b95cb83517abd7c9978bdf7005e9938",
+            "address": "0x433E43047B95cB83517abd7c9978Bdf7005E9938",
             "decimals": 8,
             "name": "WBTC Token",
             "symbol": "m.WBTC",
@@ -248,7 +248,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0x4c078361fc9bbb78df910800a991c7c3dd2f6ce0",
+            "address": "0x4c078361FC9BbB78DF910800A991C7c3DD2F6ce0",
             "decimals": 18,
             "name": "DAI Token",
             "symbol": "m.DAI",
@@ -256,7 +256,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+            "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
             "decimals": 18,
             "name": "Mai Stablecoin",
             "symbol": "MAI",
@@ -264,7 +264,7 @@
         },
         {
             "chainId": 1088,
-            "address": "0x186573b175adf5801cf95fb06b232ccab123c6f4",
+            "address": "0x186573b175aDF5801cF95Fb06b232ccAB123c6F4",
             "decimals": 18,
             "name": "Monkex",
             "symbol": "Monkex",
