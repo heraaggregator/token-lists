@@ -104,11 +104,11 @@
         },
         {
             "chainId": 1088,
-            "address": "0x68D97B7A961a5239B9F911DA8dEb57F6eF6e5e28",
+            "address": "0xd1F0A4E5444EEd0fbcd6624DCef7Ef33043E6168",
             "decimals": 18,
-            "name": "AAVE Token",
-            "symbol": "AAVE",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x68d97b7a961a5239b9f911da8deb57f6ef6e5e28/logo.png"
+            "name": "AAVE",
+            "symbol": "m.AAVE",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xd1f0a4e5444eed0fbcd6624dcef7ef33043e6168/logo.png"
         },
         {
             "chainId": 1088,
@@ -229,14 +229,6 @@
             "name": "Sushi Token",
             "symbol": "m.SUSHI",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c/logo.png"
-        },
-        {
-            "chainId": 1088,
-            "address": "0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10",
-            "decimals": 18,
-            "name": "Binance USD",
-            "symbol": "m.BUSD",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb809cda0c2f79f43248c32b5dcb09d5cd26bbf10/logo.png"
         },
         {
             "chainId": 1088,
