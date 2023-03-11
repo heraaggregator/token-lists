@@ -16,11 +16,11 @@
     "tags": {
         "base": {
           "name": "Base",
-          "description": "Native and base tokens that will be integrated into the Hera pathfinder and will take place in the multi-hop stage."
+          "description": "Native and base tokens that will be integrated into the Hera pathfinder and will take place in the multihop stage."
         },
         "stable": {
           "name": "Stable",
-          "description": "Stable tokens that will be integrated into the Hera pathfinder and will take place in the multi-hop stage."
+          "description": "Stable tokens that will be integrated into the Hera pathfinder and will take place in the multihop stage."
         }
       },
     "tokens": [
