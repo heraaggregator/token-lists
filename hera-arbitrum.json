@@ -10,9 +10,9 @@
     "version": {
         "major": 3,
         "minor": 1,
-        "patch": 2
+        "patch": 4
     },
-    "timestamp": "2023-03-10T09:35:00+00:00",
+    "timestamp": "2023-03-29T09:35:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -21,6 +21,14 @@
             "name": "Ether",
             "symbol": "ETH",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+            "decimals": 18,
+            "name": "Arbitrum",
+            "symbol": "ARB",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
         },
         {
             "chainId": 42161,
@@ -781,6 +789,62 @@
             "name": "AlienFi",
             "symbol": "ALIEN",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6740acb82ac5c63a7ad2397ee1faed7c788f5f8c.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
+            "decimals": 18,
+            "name": "WINR Protocol",
+            "symbol": "WINR",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xd77b108d4f6cefaa0cae9506a934e825becca46e.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xD5954c3084a1cCd70B4dA011E67760B8e78aeE84",
+            "decimals": 18,
+            "name": "ArbiDex Token",
+            "symbol": "ARX",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xd5954c3084a1ccd70b4da011e67760b8e78aee84.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xAAA6C1E32C55A7Bfa8066A6FAE9b42650F262418",
+            "decimals": 18,
+            "name": "Ramses",
+            "symbol": "RAM",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x29C1EA5ED7af53094b1a79eF60d20641987c867e",
+            "decimals": 9,
+            "name": "Acid",
+            "symbol": "ACID",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x29c1ea5ed7af53094b1a79ef60d20641987c867e.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x1824a51C106EFC27d35A74efB56d9BF54dDb22d4",
+            "decimals": 18,
+            "name": "Perpy Token",
+            "symbol": "PRY",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x1824a51c106efc27d35a74efb56d9bf54ddb22d4.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4A35cA865aBEc4205430081ccDF768610e06BfbC",
+            "decimals": 18,
+            "name": "Lotto",
+            "symbol": "LOTTO",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x4a35ca865abec4205430081ccdf768610e06bfbc.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x2e516BA5Bf3b7eE47fb99B09eaDb60BDE80a82e0",
+            "decimals": 18,
+            "name": "Arbitrum Eggs",
+            "symbol": "aEGGS",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x2e516ba5bf3b7ee47fb99b09eadb60bde80a82e0.png"
         }
     ]
 }
