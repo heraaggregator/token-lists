@@ -10,9 +10,9 @@
     "version": {
         "major": 3,
         "minor": 1,
-        "patch": 4
+        "patch": 5
     },
-    "timestamp": "2023-03-29T09:35:00+00:00",
+    "timestamp": "2023-04-03T07:35:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -845,6 +845,14 @@
             "name": "Arbitrum Eggs",
             "symbol": "aEGGS",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x2e516ba5bf3b7ee47fb99b09eadb60bde80a82e0.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+            "decimals": 18,
+            "name": "Mai Stablecoin",
+            "symbol": "MAI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3f56e0c36d275367b8c502090edf38289b3dea0d.png"
         }
     ]
 }
