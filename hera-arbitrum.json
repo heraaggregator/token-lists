@@ -9,10 +9,10 @@
     ],
     "version": {
         "major": 3,
-        "minor": 1,
-        "patch": 5
+        "minor": 2,
+        "patch": 1
     },
-    "timestamp": "2023-04-03T07:35:00+00:00",
+    "timestamp": "2023-04-05T07:35:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -853,6 +853,46 @@
             "name": "Mai Stablecoin",
             "symbol": "MAI",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3f56e0c36d275367b8c502090edf38289b3dea0d.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
+            "decimals": 18,
+            "name": "DEI",
+            "symbol": "DEI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xde1e704dae0b4051e80dabb26ab6ad6c12262da0.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
+            "decimals": 6,
+            "name": "USD+",
+            "symbol": "USD+",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xeb8E93A0c7504Bffd8A8fFa56CD754c63aAeBFe8",
+            "decimals": 18,
+            "name": "DAI+",
+            "symbol": "DAI+",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeb8e93a0c7504bffd8a8ffa56cd754c63aaebfe8.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6",
+            "decimals": 18,
+            "name": "Dola USD Stablecoin",
+            "symbol": "DOLA",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6a7661795c374c0bfc635934efaddff3a7ee23b6.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x56b251d4b493ee3956E3f899D36b7290902D2326",
+            "decimals": 18,
+            "name": "Mad Meerkat Finance",
+            "symbol": "MMF",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x56b251d4b493ee3956e3f899d36b7290902d2326.png"
         }
     ]
 }
