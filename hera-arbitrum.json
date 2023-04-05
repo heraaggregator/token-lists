@@ -176,11 +176,11 @@
         },
         {
             "chainId": 42161,
-            "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
+            "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
             "decimals": 18,
             "name": "Radiant",
             "symbol": "RDNT",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3082cc23568ea640225c2467653db90e9250aaa0.webp"
         },
         {
             "chainId": 42161,
