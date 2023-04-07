@@ -592,14 +592,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
-            "decimals": 18,
-            "name": "Curve.fi USDC/USDT",
-            "symbol": "2CRV",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x7f90122bf0700f9e7e1f688fe926940e8839f353.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b",
             "decimals": 18,
             "name": "Wootrade Network",
