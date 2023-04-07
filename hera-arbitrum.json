@@ -10,9 +10,9 @@
     "version": {
         "major": 3,
         "minor": 2,
-        "patch": 1
+        "patch": 4
     },
-    "timestamp": "2023-04-05T07:35:00+00:00",
+    "timestamp": "2023-04-07T07:35:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -445,46 +445,6 @@
             "name": "Gnosis Token",
             "symbol": "GNO",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xa0b862f60edef4452f25b4160f177db44deb6cf1.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xBfa641051Ba0a0Ad1b0AcF549a89536A0D76472E",
-            "decimals": 18,
-            "name": "Badger",
-            "symbol": "BADGER",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xbfa641051ba0a0ad1b0acf549a89536a0d76472e.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x354A6dA3fcde098F8389cad84b0182725c6C91dE",
-            "decimals": 18,
-            "name": "Compound",
-            "symbol": "COMP",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x354a6da3fcde098f8389cad84b0182725c6c91de.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xcAB86F6Fb6d1C2cBeeB97854A0C023446A075Fe3",
-            "decimals": 18,
-            "name": "deBridge Ether",
-            "symbol": "deETH",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xcab86f6fb6d1c2cbeeb97854a0c023446a075fe3.webp"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x1dDcaa4Ed761428ae348BEfC6718BCb12e63bFaa",
-            "decimals": 6,
-            "name": "deBridge USD Coin",
-            "symbol": "deUSDC",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa.webp"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xC3Ae0333F0F34aa734D5493276223d95B8F9Cb37",
-            "decimals": 18,
-            "name": "DXdao",
-            "symbol": "DXD",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xc3ae0333f0f34aa734d5493276223d95b8f9cb37.png"
         },
         {
             "chainId": 42161,
