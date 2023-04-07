@@ -893,6 +893,14 @@
             "name": "Mad Meerkat Finance",
             "symbol": "MMF",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x56b251d4b493ee3956e3f899d36b7290902d2326.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x7B5EB3940021Ec0e8e463D5dBB4B7B09a89DDF96",
+            "decimals": 18,
+            "name": "Wombat Token",
+            "symbol": "WOM",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96.webp"
         }
     ]
 }
