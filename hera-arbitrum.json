@@ -10,9 +10,9 @@
     "version": {
         "major": 3,
         "minor": 2,
-        "patch": 4
+        "patch": 5
     },
-    "timestamp": "2023-04-07T07:35:00+00:00",
+    "timestamp": "2023-04-18T07:35:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -853,6 +853,14 @@
             "name": "Wombat Token",
             "symbol": "WOM",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
+            "decimals": 6,
+            "name": "ArbDoge AI",
+            "symbol": "AIDOGE",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x09e18590e8f76b6cf471b3cd75fe1a1a9d2b2c2b.webp"
         }
     ]
 }
