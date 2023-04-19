@@ -869,6 +869,14 @@
             "name": "Sector",
             "symbol": "SECT",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x0b63c61bba4a876a6eb8b5e596800f7649a9b71e.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6bB7A17AcC227fd1F6781D1EEDEAE01B42047eE0",
+            "decimals": 18,
+            "name": "Lexer Token",
+            "symbol": "LEX",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6bb7a17acc227fd1f6781d1eedeae01b42047ee0.svg"
         }
     ]
 }
