@@ -12,7 +12,7 @@
         "minor": 2,
         "patch": 5
     },
-    "timestamp": "2023-04-18T07:35:00+00:00",
+    "timestamp": "2023-04-19T07:35:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -861,6 +861,14 @@
             "name": "ArbDoge AI",
             "symbol": "AIDOGE",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x09e18590e8f76b6cf471b3cd75fe1a1a9d2b2c2b.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x0B63C61bba4a876a6eB8b5e596800F7649A9B71E",
+            "decimals": 18,
+            "name": "Sector",
+            "symbol": "SECT",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x0b63c61bba4a876a6eb8b5e596800f7649a9b71e.webp"
         }
     ]
 }
