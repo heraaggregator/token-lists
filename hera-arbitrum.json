@@ -10,9 +10,9 @@
     "version": {
         "major": 3,
         "minor": 2,
-        "patch": 5
+        "patch": 6
     },
-    "timestamp": "2023-04-24T07:35:00+00:00",
+    "timestamp": "2023-04-27T07:35:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -885,6 +885,14 @@
             "name": "Borderless Bitcoin",
             "symbol": "BTC.b",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x2297aebd383787a160dd0d9f71508148769342e3.svg"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851",
+            "decimals": 18,
+            "name": "Chronos",
+            "symbol": "CHR",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x15b2fb8f08e4ac1ce019eadae02ee92aedf06851.webp"
         }
     ]
 }
