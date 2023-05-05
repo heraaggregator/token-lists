@@ -928,14 +928,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
-            "decimals": 6,
-            "name": "ArbDoge AI",
-            "symbol": "AIDOGE",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x09e18590e8f76b6cf471b3cd75fe1a1a9d2b2c2b.webp"
-        },
-        {
-            "chainId": 42161,
             "address": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
             "decimals": 18,
             "name": "Liquity USD",
