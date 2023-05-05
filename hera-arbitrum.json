@@ -10,9 +10,9 @@
     "version": {
         "major": 3,
         "minor": 2,
-        "patch": 6
+        "patch": 7
     },
-    "timestamp": "2023-04-27T07:35:00+00:00",
+    "timestamp": "2023-05-05T07:35:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -893,6 +893,54 @@
             "name": "Chronos",
             "symbol": "CHR",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x15b2fb8f08e4ac1ce019eadae02ee92aedf06851.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x640278BadA847b7CE71bb22F20517A009a049640",
+            "decimals": 18,
+            "name": "GoSleep NGT",
+            "symbol": "NGT",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x640278bada847b7ce71bb22f20517a009a049640.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x178412e79c25968a32e89b11f63B33F733770c2A",
+            "decimals": 18,
+            "name": "Frax Ether",
+            "symbol": "frxETH",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x178412e79c25968a32e89b11f63b33f733770c2a.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x95aB45875cFFdba1E5f451B950bC2E42c0053f39",
+            "decimals": 18,
+            "name": "Staked Frax Ether",
+            "symbol": "sfrxETH",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x95ab45875cffdba1e5f451b950bc2e42c0053f39.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xD67A097dCE9d4474737e6871684aE3c05460F571",
+            "decimals": 18,
+            "name": "GND Protocol",
+            "symbol": "GND",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xd67a097dce9d4474737e6871684ae3c05460f571.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
+            "decimals": 6,
+            "name": "ArbDoge AI",
+            "symbol": "AIDOGE",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x09e18590e8f76b6cf471b3cd75fe1a1a9d2b2c2b.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+            "decimals": 18,
+            "name": "Liquity USD",
+            "symbol": "LUSD",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x93b346b6bc2548da6a1e7d98e9a421b42541425b.webp"
         }
     ]
 }
