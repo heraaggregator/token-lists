@@ -948,7 +948,7 @@
             "decimals": 6,
             "name": "Fluid USDC",
             "symbol": "fUSDC",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x4cfa50b7ce747e2d61724fcac57f24b748ff2b2a.webp"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x4cfa50b7ce747e2d61724fcac57f24b748ff2b2a.png"
         },
         {
             "chainId": 42161,
