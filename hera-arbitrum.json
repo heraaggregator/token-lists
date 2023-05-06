@@ -10,9 +10,9 @@
     "version": {
         "major": 3,
         "minor": 2,
-        "patch": 7
+        "patch": 8
     },
-    "timestamp": "2023-05-05T07:35:00+00:00",
+    "timestamp": "2023-05-06T07:35:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -933,6 +933,54 @@
             "name": "Liquity USD",
             "symbol": "LUSD",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x93b346b6bc2548da6a1e7d98e9a421b42541425b.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449",
+            "decimals": 18,
+            "name": "Liquity",
+            "symbol": "LQTY",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xfb9e5d956d889d91a82737b9bfcdac1dce3e1449.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A",
+            "decimals": 6,
+            "name": "Fluid USDC",
+            "symbol": "fUSDC",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x4cfa50b7ce747e2d61724fcac57f24b748ff2b2a.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xDDc0385169797937066bBd8EF409b5B3c0dFEB52",
+            "decimals": 9,
+            "name": "Wrapped USDR",
+            "symbol": "wUSDR",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xddc0385169797937066bbd8ef409b5b3c0dfeb52.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xaaE0c3856e665ff9b3E2872B6D75939D810b7E40",
+            "decimals": 18,
+            "name": "YieldFarming Index",
+            "symbol": "YFX",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xaae0c3856e665ff9b3e2872b6d75939d810b7e40.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xEC13336bbd50790a00CDc0fEddF11287eaF92529",
+            "decimals": 18,
+            "name": "gmUSD",
+            "symbol": "gmUSD",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xec13336bbd50790a00cdc0feddf11287eaf92529.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6688b00f0c23a4a546BEaAE51a7c90C439895D48",
+            "decimals": 18,
+            "name": "Tarot",
+            "symbol": "TAROT",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6688b00f0c23a4a546beaae51a7c90c439895d48.webp"
         }
     ]
 }
