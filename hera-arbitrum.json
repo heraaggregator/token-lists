@@ -16,14 +16,6 @@
     "tokens": [
         {
             "chainId": 42161,
-            "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-            "decimals": 18,
-            "name": "Ether",
-            "symbol": "ETH",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
             "decimals": 18,
             "name": "Arbitrum",
