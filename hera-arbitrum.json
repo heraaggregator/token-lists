@@ -536,22 +536,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0x4DAD357726b41bb8932764340ee9108cC5AD33a0",
-            "decimals": 18,
-            "name": "NitroShiba",
-            "symbol": "NISHIB",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x4dad357726b41bb8932764340ee9108cc5ad33a0.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x45D55EADf0ED5495B369E040aF0717eaFaE3b731",
-            "decimals": 18,
-            "name": "Ellerium",
-            "symbol": "ELM",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x45d55eadf0ed5495b369e040af0717eafae3b731.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0xd3f1Da62CAFB7E7BC6531FF1ceF6F414291F03D3",
             "decimals": 18,
             "name": "Doubloon Token",
@@ -565,6 +549,14 @@
             "name": "Yieldification",
             "symbol": "YDF",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x30dcba0405004cf124045793e1933c798af9e66a.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xf0cb2dc0db5e6c66B9a70Ac27B06b878da017028",
+            "decimals": 9,
+            "name": "Olympus",
+            "symbol": "OHM",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xf0cb2dc0db5e6c66b9a70ac27b06b878da017028.webp"
         },
         {
             "chainId": 42161,
@@ -661,14 +653,6 @@
             "name": "SolidLizard",
             "symbol": "SLIZ",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x463913d3a3d3d291667d53b8325c598eb88d3b0e.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xDd8e557C8804D326c72074e987de02A23ae6Ef84",
-            "decimals": 18,
-            "name": "ArbInu",
-            "symbol": "ARBINU",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xdd8e557c8804d326c72074e987de02a23ae6ef84.png"
         },
         {
             "chainId": 42161,
@@ -792,27 +776,11 @@
         },
         {
             "chainId": 42161,
-            "address": "0x2e516BA5Bf3b7eE47fb99B09eaDb60BDE80a82e0",
-            "decimals": 18,
-            "name": "Arbitrum Eggs",
-            "symbol": "aEGGS",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x2e516ba5bf3b7ee47fb99b09eadb60bde80a82e0.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
             "decimals": 18,
             "name": "Mai Stablecoin",
             "symbol": "MAI",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3f56e0c36d275367b8c502090edf38289b3dea0d.webp"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xDE1E704dae0B4051e80DAbB26ab6ad6c12262DA0",
-            "decimals": 18,
-            "name": "DEI",
-            "symbol": "DEI",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xde1e704dae0b4051e80dabb26ab6ad6c12262da0.webp"
         },
         {
             "chainId": 42161,
