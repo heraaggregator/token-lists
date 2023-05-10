@@ -10,9 +10,9 @@
     "version": {
         "major": 3,
         "minor": 2,
-        "patch": 8
+        "patch": 9
     },
-    "timestamp": "2023-05-06T07:35:00+00:00",
+    "timestamp": "2023-05-10T07:35:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -981,6 +981,22 @@
             "name": "Tarot",
             "symbol": "TAROT",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6688b00f0c23a4a546beaae51a7c90c439895d48.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xFF191514A9baba76BfD19e3943a4d37E8ec9a111",
+            "decimals": 18,
+            "name": "Auragi",
+            "symbol": "AGI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xff191514a9baba76bfd19e3943a4d37e8ec9a111.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xef261714F7E5ba6b86F4780eb6e3bf26B10729CF",
+            "decimals": 18,
+            "name": "White Lotus",
+            "symbol": "LOTUS",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xef261714f7e5ba6b86f4780eb6e3bf26b10729cf.webp"
         }
     ]
 }
