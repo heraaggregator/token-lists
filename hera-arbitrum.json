@@ -8,11 +8,11 @@
         "ethereum"
     ],
     "version": {
-        "major": 3,
-        "minor": 2,
-        "patch": 9
+        "major": 4,
+        "minor": 1,
+        "patch": 1
     },
-    "timestamp": "2023-05-10T07:35:00+00:00",
+    "timestamp": "2023-05-10T09:35:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
