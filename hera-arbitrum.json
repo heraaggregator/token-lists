@@ -96,14 +96,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0xD22a58f79e9481D1a88e00c343885A588b34b68B",
-            "decimals": 2,
-            "name": "STASIS EURS Token",
-            "symbol": "EURS",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xd22a58f79e9481d1a88e00c343885a588b34b68b.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
             "decimals": 18,
             "name": "MAGIC",
@@ -357,14 +349,6 @@
             "name": "dForce USD",
             "symbol": "USX",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x641441c631e2f909700d2f41fd87f0aa6a6b4edb.svg"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xC2125882318d04D266720B598d620f28222F3ABd",
-            "decimals": 18,
-            "name": "dForce EUR",
-            "symbol": "EUX",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xc2125882318d04d266720b598d620f28222f3abd.svg"
         },
         {
             "chainId": 42161,
