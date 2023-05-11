@@ -10,9 +10,9 @@
     "version": {
         "major": 4,
         "minor": 1,
-        "patch": 2
+        "patch": 3
     },
-    "timestamp": "2023-05-11T09:35:00+00:00",
+    "timestamp": "2023-05-11T09:37:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -949,6 +949,14 @@
             "name": "handleFOREX",
             "symbol": "FOREX",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xdb298285fe4c5410b05390ca80e8fbe9de1f259b.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x80bB30D62a16e1F2084dEAE84dc293531c3AC3A1",
+            "decimals": 18,
+            "name": "Granary Token",
+            "symbol": "GRAIN",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x80bb30d62a16e1f2084deae84dc293531c3ac3a1.webp"
         }
     ]
 }
