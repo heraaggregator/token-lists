@@ -9,10 +9,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 1,
-        "patch": 3
+        "minor": 2,
+        "patch": 1
     },
-    "timestamp": "2023-05-11T09:37:00+00:00",
+    "timestamp": "2023-05-22T09:37:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -957,6 +957,14 @@
             "name": "Granary Token",
             "symbol": "GRAIN",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x80bb30d62a16e1f2084deae84dc293531c3ac3a1.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xeCA66820ed807c096e1Bd7a1A091cD3D3152cC79",
+            "decimals": 18,
+            "name": "Ghast",
+            "symbol": "GHA",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeca66820ed807c096e1bd7a1a091cd3d3152cc79.webp"
         }
     ]
 }
