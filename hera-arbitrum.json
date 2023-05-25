@@ -10,9 +10,9 @@
     "version": {
         "major": 4,
         "minor": 2,
-        "patch": 1
+        "patch": 2
     },
-    "timestamp": "2023-05-22T09:37:00+00:00",
+    "timestamp": "2023-05-25T09:37:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -965,6 +965,14 @@
             "name": "Ghast",
             "symbol": "GHA",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xeca66820ed807c096e1bd7a1a091cd3d3152cc79.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
+            "decimals": 18,
+            "name": "Kujira native asset",
+            "symbol": "KUJI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3a18dcc9745edcd1ef33ecb93b0b6eba5671e7ca.webp"
         }
     ]
 }
