@@ -10,9 +10,9 @@
     "version": {
         "major": 4,
         "minor": 2,
-        "patch": 2
+        "patch": 3
     },
-    "timestamp": "2023-05-25T09:37:00+00:00",
+    "timestamp": "2023-05-25T09:39:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -969,7 +969,7 @@
         {
             "chainId": 42161,
             "address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
-            "decimals": 18,
+            "decimals": 6,
             "name": "Kujira native asset",
             "symbol": "KUJI",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3a18dcc9745edcd1ef33ecb93b0b6eba5671e7ca.webp"
