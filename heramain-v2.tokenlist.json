@@ -10,8 +10,8 @@
     ],
     "version": {
         "major": 3,
-        "minor": 1,
-        "patch": 4
+        "minor": 2,
+        "patch": 1
     },
     "tokens": [
         {
@@ -269,7 +269,15 @@
             "name": "Monkex",
             "symbol": "Monkex",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x186573b175adf5801cf95fb06b232ccab123c6f4/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xA4eE142e34d0676Edc2b760DD0016003D99a4ceC",
+            "decimals": 18,
+            "name": "Athena Token",
+            "symbol": "ATH",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xa4ee142e34d0676edc2b760dd0016003d99a4cec/logo.svg"
         }
     ],
-    "timestamp": "2023-03-11T02:28:00+00:00"
+    "timestamp": "2023-05-30T02:28:00+00:00"
 }
