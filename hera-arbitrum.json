@@ -10,9 +10,9 @@
     "version": {
         "major": 4,
         "minor": 2,
-        "patch": 3
+        "patch": 4
     },
-    "timestamp": "2023-05-25T09:39:00+00:00",
+    "timestamp": "2023-06-06T09:39:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -973,6 +973,70 @@
             "name": "Kujira native asset",
             "symbol": "KUJI",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3a18dcc9745edcd1ef33ecb93b0b6eba5671e7ca.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x3A33473d7990a605a88ac72A78aD4EFC40a54ADB",
+            "decimals": 18,
+            "name": "Tigris",
+            "symbol": "TIG",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3a33473d7990a605a88ac72a78ad4efc40a54adb.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xBfbCFe8873fE28Dfa25f1099282b088D52bbAD9C",
+            "decimals": 18,
+            "name": "Equilibria Token",
+            "symbol": "EQB",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xbfbcfe8873fe28dfa25f1099282b088d52bbad9c.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x6Fc2680D8ad8e8312191441B4ECa9EfF8D06b45a",
+            "decimals": 18,
+            "name": "Artichoke",
+            "symbol": "CHOKE",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6fc2680d8ad8e8312191441b4eca9eff8d06b45a.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8",
+            "decimals": 18,
+            "name": "Dream Machine Token",
+            "symbol": "DMT",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x8b0e6f19ee57089f7649a455d89d7bc6314d04e8.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
+            "decimals": 18,
+            "name": "Level Token",
+            "symbol": "LVL",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xb64e280e9d1b5dbec4accedb2257a87b400db149.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xCCD3891c1452b7CB0E4632774B9365DC4eE24f20",
+            "decimals": 18,
+            "name": "El Dorado Token",
+            "symbol": "EDE",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xccd3891c1452b7cb0e4632774b9365dc4ee24f20.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x244Ae62439C1Ef3187f244d8604ac2c391eF2b53",
+            "decimals": 18,
+            "name": "Modular",
+            "symbol": "MOD",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x244ae62439c1ef3187f244d8604ac2c391ef2b53.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0x59A729658e9245B0cF1f8Cb9fb37945D2B06ea27",
+            "decimals": 18,
+            "name": "GenomesDAO",
+            "symbol": "GENE",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x59a729658e9245b0cf1f8cb9fb37945d2b06ea27.webp"
         }
     ]
 }
