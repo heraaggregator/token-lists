@@ -10,9 +10,9 @@
     "version": {
         "major": 4,
         "minor": 2,
-        "patch": 4
+        "patch": 5
     },
-    "timestamp": "2023-06-06T09:39:00+00:00",
+    "timestamp": "2023-06-09T09:39:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -32,10 +32,18 @@
         },
         {
             "chainId": 42161,
-            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
             "decimals": 6,
             "name": "USD Coin",
             "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xaf88d065e77c8cc2239327c5edb3a432268e5831.png"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "decimals": 6,
+            "name": "Bridged USDC",
+            "symbol": "USDC.e",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8.png"
         },
         {
