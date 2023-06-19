@@ -10,9 +10,9 @@
     "version": {
         "major": 4,
         "minor": 2,
-        "patch": 5
+        "patch": 6
     },
-    "timestamp": "2023-06-09T09:39:00+00:00",
+    "timestamp": "2023-06-19T09:39:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -1045,6 +1045,14 @@
             "name": "GenomesDAO",
             "symbol": "GENE",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x59a729658e9245b0cf1f8cb9fb37945d2b06ea27.webp"
+        },
+        {
+            "chainId": 42161,
+            "address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
+            "decimals": 18,
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8.webp"
         }
     ]
 }
