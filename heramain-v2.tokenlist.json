@@ -11,7 +11,7 @@
     "version": {
         "major": 3,
         "minor": 2,
-        "patch": 1
+        "patch": 2
     },
     "tokens": [
         {
@@ -277,7 +277,15 @@
             "name": "Athena Token",
             "symbol": "ATH",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xa4ee142e34d0676edc2b760dd0016003d99a4cec/logo.svg"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x4FeBd4Ea737A0aE94Dd56E754e9B7A83E1C459e9",
+            "decimals": 18,
+            "name": "xHUM",
+            "symbol": "xHUM",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x4febd4ea737a0ae94dd56e754e9b7a83e1c459e9/logo.svg"
         }
     ],
-    "timestamp": "2023-05-30T02:28:00+00:00"
+    "timestamp": "2023-06-20T04:28:00+00:00"
 }
