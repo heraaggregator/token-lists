@@ -9,10 +9,10 @@
     ],
     "version": {
         "major": 4,
-        "minor": 2,
-        "patch": 6
+        "minor": 3,
+        "patch": 1
     },
-    "timestamp": "2023-06-19T09:39:00+00:00",
+    "timestamp": "2023-07-13T02:39:00+00:00",
     "tokens": [
         {
             "chainId": 42161,
@@ -192,14 +192,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0xb348B87b23D5977E2948E6f36ca07E1EC94d7328",
-            "decimals": 18,
-            "name": "SwapFish",
-            "symbol": "FISH",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xb348b87b23d5977e2948e6f36ca07e1ec94d7328.webp"
-        },
-        {
-            "chainId": 42161,
             "address": "0xBcc9C1763d54427bDF5EfB6e9EB9494E5a1fbAbf",
             "decimals": 18,
             "name": "HonorWorld Token",
@@ -336,14 +328,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0xdE903E2712288A1dA82942DDdF2c20529565aC30",
-            "decimals": 18,
-            "name": "Swapr",
-            "symbol": "SWPR",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xde903e2712288a1da82942dddf2c20529565ac30.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0x64343594Ab9b56e99087BfA6F2335Db24c2d1F17",
             "decimals": 18,
             "name": "Vesta Stable",
@@ -440,14 +424,6 @@
         },
         {
             "chainId": 42161,
-            "address": "0x031d35296154279DC1984dCD93E392b1f946737b",
-            "decimals": 18,
-            "name": "Cap",
-            "symbol": "CAP",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x031d35296154279dc1984dcd93e392b1f946737b.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0xC47D9753F3b32aA9548a7C3F30b6aEc3B2d2798C",
             "decimals": 18,
             "name": "Tender.fi",
@@ -485,14 +461,6 @@
             "name": "Hegic",
             "symbol": "HEGIC",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x431402e8b9de9aa016c743880e04e517074d8cec.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x07E49d5dE43DDA6162Fa28D24d5935C151875283",
-            "decimals": 18,
-            "name": "CVI",
-            "symbol": "GOVI",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x07e49d5de43dda6162fa28d24d5935c151875283.png"
         },
         {
             "chainId": 42161,
@@ -544,27 +512,11 @@
         },
         {
             "chainId": 42161,
-            "address": "0x55fF62567f09906A85183b866dF84bf599a4bf70",
-            "decimals": 18,
-            "name": "Kromatika",
-            "symbol": "KROM",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x55ff62567f09906a85183b866df84bf599a4bf70.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0xcAFcD85D8ca7Ad1e1C6F82F651fA15E33AEfD07b",
             "decimals": 18,
             "name": "Wootrade Network",
             "symbol": "WOO",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x319e222De462ac959BAf2aEc848697AeC2bbD770",
-            "decimals": 18,
-            "name": "OreoSwap",
-            "symbol": "OREO",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x319e222de462ac959baf2aec848697aec2bbd770.png"
         },
         {
             "chainId": 42161,
@@ -613,14 +565,6 @@
             "name": "Zyber Token",
             "symbol": "ZYB",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x3b475f6f2f41853706afc9fa6a6b8c5df1a2724c.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x463913D3a3D3D291667D53B8325c598Eb88D3B0e",
-            "decimals": 18,
-            "name": "SolidLizard",
-            "symbol": "SLIZ",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x463913d3a3d3d291667d53b8325c598eb88d3b0e.png"
         },
         {
             "chainId": 42161,
@@ -680,35 +624,11 @@
         },
         {
             "chainId": 42161,
-            "address": "0x5DB7b150c5F38c5F5db11dCBDB885028fcC51D68",
-            "decimals": 18,
-            "name": "Sterling",
-            "symbol": "STR",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x5db7b150c5f38c5f5db11dcbdb885028fcc51d68.png"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x6740Acb82ac5C63A7ad2397ee1faed7c788F5f8c",
-            "decimals": 18,
-            "name": "AlienFi",
-            "symbol": "ALIEN",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6740acb82ac5c63a7ad2397ee1faed7c788f5f8c.png"
-        },
-        {
-            "chainId": 42161,
             "address": "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
             "decimals": 18,
             "name": "WINR Protocol",
             "symbol": "WINR",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xd77b108d4f6cefaa0cae9506a934e825becca46e.webp"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xD5954c3084a1cCd70B4dA011E67760B8e78aeE84",
-            "decimals": 18,
-            "name": "ArbiDex Token",
-            "symbol": "ARX",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xd5954c3084a1ccd70b4da011e67760b8e78aee84.png"
         },
         {
             "chainId": 42161,
@@ -773,14 +693,6 @@
             "name": "Dola USD Stablecoin",
             "symbol": "DOLA",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6a7661795c374c0bfc635934efaddff3a7ee23b6.webp"
-        },
-        {
-            "chainId": 42161,
-            "address": "0x56b251d4b493ee3956E3f899D36b7290902D2326",
-            "decimals": 18,
-            "name": "Mad Meerkat Finance",
-            "symbol": "MMF",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x56b251d4b493ee3956e3f899d36b7290902d2326.png"
         },
         {
             "chainId": 42161,
@@ -917,14 +829,6 @@
             "name": "Tarot",
             "symbol": "TAROT",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0x6688b00f0c23a4a546beaae51a7c90c439895d48.webp"
-        },
-        {
-            "chainId": 42161,
-            "address": "0xFF191514A9baba76BfD19e3943a4d37E8ec9a111",
-            "decimals": 18,
-            "name": "Auragi",
-            "symbol": "AGI",
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/arbitrum-tokens/main/0xff191514a9baba76bfd19e3943a4d37e8ec9a111.webp"
         },
         {
             "chainId": 42161,
