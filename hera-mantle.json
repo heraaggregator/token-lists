@@ -20,7 +20,7 @@
             "address": "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8",
             "chainId": 5000,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8.png"
         },
         {
             "name": "USD Tether",
@@ -28,7 +28,7 @@
             "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
             "chainId": 5000,
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE.png"
         },
         {
             "name": "Ether",
@@ -36,7 +36,7 @@
             "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
             "chainId": 5000,
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111.png"
         },
         {
             "name": "Wrapped BTC",
@@ -44,7 +44,7 @@
             "address": "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
             "chainId": 5000,
             "decimals": 8,
-            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0x912ce59144191c1204e64559fe8253a0e49e6548.png"
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2.png"
         }
     ]
 }
