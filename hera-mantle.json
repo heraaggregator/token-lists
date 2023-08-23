@@ -9,10 +9,10 @@
     ],
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 2,
         "patch": 1
     },
-    "timestamp": "2023-07-17T02:39:00+00:00",
+    "timestamp": "2023-08-23T02:10:00+00:00",
     "tokens": [
         {
             "name": "Wrapped MNT",
@@ -31,7 +31,15 @@
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE.png"
         },
         {
-            "name": "Ether",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "address": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
+            "chainId": 5000,
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9.png"
+        },
+        {
+            "name": "Wrapped Ether",
             "symbol": "WETH",
             "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
             "chainId": 5000,
@@ -45,6 +53,54 @@
             "chainId": 5000,
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2.png"
+        },
+        {
+            "name": "LUSD Stablecoin",
+            "symbol": "LUSD",
+            "address": "0xf93a85d53e4aF0D62bdf3A83CCFc1EcF3EAf9F32",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0xf93a85d53e4aF0D62bdf3A83CCFc1EcF3EAf9F32.png"
+        },
+        {
+            "name": "Pendle Token",
+            "symbol": "PENDLE",
+            "address": "0xd27B18915e7acc8FD6Ac75DB6766a80f8D2f5729",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0xd27B18915e7acc8FD6Ac75DB6766a80f8D2f5729.png"
+        },
+        {
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "address": "0x636D4073738C071326Aa70c9e5DB7C334bEb87bE",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0x636D4073738C071326Aa70c9e5DB7C334bEb87bE.png"
+        },
+        {
+            "name": "iZUMi Token",
+            "symbol": "iZi",
+            "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747.png"
+        },
+        {
+            "name": "iZUMi Bond USD",
+            "symbol": "iUSD",
+            "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D.png"
+        },
+        {
+            "name": "Mantle Inu Token",
+            "symbol": "MINU",
+            "address": "0x51cfe5b1E764dC253F4c8C1f19a081fF4C3517eD",
+            "chainId": 5000,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/mantle-tokens/main/0x51cfe5b1E764dC253F4c8C1f19a081fF4C3517eD.png"
         }
     ]
 }
