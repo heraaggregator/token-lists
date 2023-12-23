@@ -10,7 +10,7 @@
     ],
     "version": {
         "major": 4,
-        "minor": 2,
+        "minor": 3,
         "patch": 1
     },
     "timestamp": "2023-12-20T04:31:00+00:00",
@@ -278,6 +278,14 @@
             "name": "Athena Token",
             "symbol": "ATH",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xa4ee142e34d0676edc2b760dd0016003d99a4cec/logo.svg"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34",
+            "decimals": 18,
+            "name": "AraFi Token",
+            "symbol": "ARA",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34/logo.svg"
         },
         {
             "chainId": 1088,
