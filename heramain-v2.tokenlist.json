@@ -10,10 +10,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
-    "timestamp": "2023-12-27T05:32:00+00:00",
+    "timestamp": "2023-12-27T13:53:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
