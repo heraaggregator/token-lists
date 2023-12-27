@@ -10,10 +10,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
-    "timestamp": "2023-12-27T05:31:00+00:00",
+    "timestamp": "2023-12-27T05:32:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -326,6 +326,14 @@
             "name": "Cronus",
             "symbol": "CRONUS",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x3dbb8D7B18b83B6109829b018875fCD192D2F3Ff/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xfedFFB10a9183884312bB4aDd40e5193B2fEA353",
+            "decimals": 9,
+            "name": "Metis Inu",
+            "symbol": "METINU",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xfedFFB10a9183884312bB4aDd40e5193B2fEA353/logo.png"
         }
     ]
 }
