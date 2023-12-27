@@ -10,10 +10,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2023-12-22T04:31:00+00:00",
+    "timestamp": "2023-12-27T04:31:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -302,6 +302,22 @@
             "name": "VitalikMum",
             "symbol": "VMUM",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x6Deb03fC15DA10BF25d542Eca0008d62463a7CBf/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x0CF2F4Cb2FAAD0FE35eFF943452339c5699D1e5c",
+            "decimals": 18,
+            "name": "BARSIK",
+            "symbol": "BARSIK",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x0CF2F4Cb2FAAD0FE35eFF943452339c5699D1e5c/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x4fC296B5B550bfCcA8fB7F0a2E292713DBf20396",
+            "decimals": 18,
+            "name": "Samoyed on Metis",
+            "symbol": "SAMOYED",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x4fC296B5B550bfCcA8fB7F0a2E292713DBf20396/logo.png"
         }
     ]
 }
