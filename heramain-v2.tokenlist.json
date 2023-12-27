@@ -10,10 +10,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
-    "timestamp": "2023-12-27T05:32:00+00:00",
+    "timestamp": "2023-12-27T05:35:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -334,6 +334,14 @@
             "name": "Metis Inu",
             "symbol": "METINU",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xfedFFB10a9183884312bB4aDd40e5193B2fEA353/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x5A3b6A5c737B0e85DD9120CeED7c0DB86F41FA68",
+            "decimals": 18,
+            "name": "MiniMe",
+            "symbol": "MiniMe",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x5A3b6A5c737B0e85DD9120CeED7c0DB86F41FA68/logo.png"
         }
     ]
 }
