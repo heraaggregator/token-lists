@@ -10,10 +10,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
-    "timestamp": "2023-12-27T05:35:00+00:00",
+    "timestamp": "2023-12-30T01:35:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -342,6 +342,22 @@
             "name": "MiniMe",
             "symbol": "MiniMe",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x5A3b6A5c737B0e85DD9120CeED7c0DB86F41FA68/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x2136d8017ac5f4Db99A7F9E23f15116b9c98Be4E",
+            "decimals": 18,
+            "name": "Vega Protocol",
+            "symbol": "VEGA",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x2136d8017ac5f4Db99A7F9E23f15116b9c98Be4E/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x8eacA4A470e7509aC8d0873150310bFfd1c03927",
+            "decimals": 9,
+            "name": "Pepecus",
+            "symbol": "PEPECUS",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x8eacA4A470e7509aC8d0873150310bFfd1c03927/logo.png"
         }
     ]
 }
