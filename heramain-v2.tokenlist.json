@@ -10,10 +10,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
-    "timestamp": "2024-01-08T01:35:00+00:00",
+    "timestamp": "2024-01-08T01:36:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -390,6 +390,14 @@
             "name": "UNICORN",
             "symbol": "UNICORN",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xE1b6442f0d77D6110745308B8b3827f015Fe2648/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x6B1D7Dc41eA3Cb68a72332b38aC0FD1efe73382e",
+            "decimals": 18,
+            "name": "Manatea The Metis Manatee",
+            "symbol": "MANAT",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x6B1D7Dc41eA3Cb68a72332b38aC0FD1efe73382e/logo.png"
         }
     ]
 }
