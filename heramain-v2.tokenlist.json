@@ -10,10 +10,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
-    "timestamp": "2023-12-30T01:35:00+00:00",
+    "timestamp": "2024-01-08T01:35:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -297,6 +297,22 @@
         },
         {
             "chainId": 1088,
+            "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+            "decimals": 18,
+            "name": "Wagmi",
+            "symbol": "WAGMI",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xa11DD414Ad9b68cc1fe4d0a256f0F4413169Dd5E",
+            "decimals": 18,
+            "name": "TitanBorn",
+            "symbol": "TITANS",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xa11DD414Ad9b68cc1fe4d0a256f0F4413169Dd5E/logo.png"
+        },
+        {
+            "chainId": 1088,
             "address": "0x6Deb03fC15DA10BF25d542Eca0008d62463a7CBf",
             "decimals": 18,
             "name": "VitalikMum",
@@ -358,6 +374,22 @@
             "name": "Pepecus",
             "symbol": "PEPECUS",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x8eacA4A470e7509aC8d0873150310bFfd1c03927/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xc9719E8431fC37DC4526c0bC6B5087FEBC6B5909",
+            "decimals": 18,
+            "name": "Metis Chain Capital",
+            "symbol": "MCC",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xc9719E8431fC37DC4526c0bC6B5087FEBC6B5909/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xE1b6442f0d77D6110745308B8b3827f015Fe2648",
+            "decimals": 9,
+            "name": "UNICORN",
+            "symbol": "UNICORN",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xE1b6442f0d77D6110745308B8b3827f015Fe2648/logo.png"
         }
     ]
 }
