@@ -10,10 +10,10 @@
     ],
     "version": {
         "major": 5,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
-    "timestamp": "2024-01-08T01:36:00+00:00",
+    "timestamp": "2024-01-13T01:36:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -270,6 +270,14 @@
             "name": "Monkex",
             "symbol": "Monkex",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x186573b175adf5801cf95fb06b232ccab123c6f4/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b",
+            "decimals": 18,
+            "name": "Wrapped Monkex",
+            "symbol": "wMonkex",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b/logo.png"
         },
         {
             "chainId": 1088,
