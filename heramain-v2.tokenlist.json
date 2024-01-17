@@ -9,11 +9,11 @@
         "andromeda"
     ],
     "version": {
-        "major": 5,
-        "minor": 9,
+        "major": 6,
+        "minor": 0,
         "patch": 0
     },
-    "timestamp": "2024-01-13T01:37:00+00:00",
+    "timestamp": "2024-01-16T01:37:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -406,6 +406,14 @@
             "name": "Manatea The Metis Manatee",
             "symbol": "MANAT",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x6B1D7Dc41eA3Cb68a72332b38aC0FD1efe73382e/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xae4065D87FCc9b7C99596C68C464415eEF87A48A",
+            "decimals": 18,
+            "name": "VitalikMumDOGE",
+            "symbol": "VMUMDOGE",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xae4065D87FCc9b7C99596C68C464415eEF87A48A/logo.png"
         }
     ]
 }
