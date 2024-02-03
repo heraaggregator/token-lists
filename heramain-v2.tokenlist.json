@@ -10,10 +10,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
-    "timestamp": "2024-01-16T01:37:00+00:00",
+    "timestamp": "2024-02-02T01:37:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -414,6 +414,14 @@
             "name": "VitalikMumDOGE",
             "symbol": "VMUMDOGE",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xae4065D87FCc9b7C99596C68C464415eEF87A48A/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xb0cf600A62C94451b844B5161A57F7ceC4Cef9ae",
+            "decimals": 18,
+            "name": "CERUS",
+            "symbol": "CERUS",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb0cf600A62C94451b844B5161A57F7ceC4Cef9ae/logo.png"
         }
     ]
 }
