@@ -10,7 +10,7 @@
     ],
     "version": {
         "major": 6,
-        "minor": 1,
+        "minor": 2,
         "patch": 0
     },
     "timestamp": "2024-02-02T01:37:00+00:00",
@@ -70,6 +70,14 @@
             "name": "Hermes",
             "symbol": "HERMES",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x75cb093E4D61d2A2e65D8e0BBb01DE8d89b53481",
+            "decimals": 18,
+            "name": "Wrapped METIS",
+            "symbol": "WMETIS",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x75cb093E4D61d2A2e65D8e0BBb01DE8d89b53481/logo.png"
         },
         {
             "chainId": 1088,
