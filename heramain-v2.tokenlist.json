@@ -10,10 +10,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
-    "timestamp": "2024-03-26T01:37:00+00:00",
+    "timestamp": "2024-04-01T01:37:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -422,6 +422,30 @@
             "name": "CERUS",
             "symbol": "CERUS",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xb0cf600A62C94451b844B5161A57F7ceC4Cef9ae/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x17C09cfC96C865CF546d73365Cedb6dC66986963",
+            "decimals": 18,
+            "name": "JEWEL Token",
+            "symbol": "JEWEL",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x17C09cfC96C865CF546d73365Cedb6dC66986963/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x5C7c4E4b949c97EC82Ff93120928d911Bc4E0922",
+            "decimals": 18,
+            "name": "Pumpkin Token",
+            "symbol": "PUMP",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x5C7c4E4b949c97EC82Ff93120928d911Bc4E0922/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xdf020cBd1897133978C7FcDF04B07E69d8934Efc",
+            "decimals": 18,
+            "name": "ZKE Token",
+            "symbol": "ZKE",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xdf020cBd1897133978C7FcDF04B07E69d8934Efc/logo.png"
         }
     ]
 }
