@@ -10,10 +10,10 @@
     ],
     "version": {
         "major": 6,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
-    "timestamp": "2024-04-01T01:37:00+00:00",
+    "timestamp": "2024-04-23T01:37:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -446,6 +446,14 @@
             "name": "ZKE Token",
             "symbol": "ZKE",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xdf020cBd1897133978C7FcDF04B07E69d8934Efc/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0xbB1676046C36BCd2F6fD08d8f60672c7087d9aDF",
+            "decimals": 18,
+            "name": "Hercules Token",
+            "symbol": "TORCH",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0xbB1676046C36BCd2F6fD08d8f60672c7087d9aDF/logo.png"
         }
     ]
 }
