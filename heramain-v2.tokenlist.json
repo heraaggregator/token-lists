@@ -9,11 +9,11 @@
         "andromeda"
     ],
     "version": {
-        "major": 6,
-        "minor": 6,
+        "major": 7,
+        "minor": 0,
         "patch": 0
     },
-    "timestamp": "2024-04-25T01:37:00+00:00",
+    "timestamp": "2024-04-25T01:38:00+00:00",
     "tokens": [
         {
             "chainId": 1088,
@@ -38,6 +38,14 @@
             "name": "Hera Token",
             "symbol": "HERA",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x6f05709bc91bad933346f9e159f0d3fdbc2c9dce/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
+            "decimals": 18,
+            "name": "Staked Frax Ether",
+            "symbol": "sfrxETH",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A/logo.png"
         },
         {
             "chainId": 1088,
