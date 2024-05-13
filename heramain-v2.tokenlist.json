@@ -10,7 +10,7 @@
     ],
     "version": {
         "major": 7,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "timestamp": "2024-04-25T01:38:00+00:00",
@@ -62,6 +62,14 @@
             "name": "Tethys",
             "symbol": "TETHYS",
             "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x69fdb77064ec5c84FA2F21072973eB28441F43F3/logo.png"
+        },
+        {
+            "chainId": 1088,
+            "address": "0x2583A2538272f31e9A15dD12A432B8C96Ab4821d",
+            "decimals": 18,
+            "name": "Staked Metis Token",
+            "symbol": "artMETIS",
+            "logoURI": "https://raw.githubusercontent.com/heraaggregator/tokens/main/0x2583A2538272f31e9A15dD12A432B8C96Ab4821d/logo.png"
         },
         {
             "chainId": 1088,
